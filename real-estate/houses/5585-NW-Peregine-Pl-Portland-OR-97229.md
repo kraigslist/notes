@@ -1,11 +1,15 @@
-# [5585 NW Peregine Pl Portland, OR 97229](https://www.google.com/search?q=5585+NW+Peregine+Pl+Portland%2C+OR+97229)
+# [5585 NW Peregrine Pl Portland, OR 97229](https://www.google.com/search?q=5585+NW+Peregrine+Pl+Portland%2C+OR+97229)
 
 ## Listing Snapshot
 
 - Current list price: $679,000
+- Listed: February 5, 2026 (~125+ cumulative days on market)
+- Price history: $719,000 → $699,000 (March 18) → $679,000 (~mid-May)
 - Last sold: March 2022 for $675,000
+- Size: ~2,332 sq ft; 3 bed / 2.5 bath (2 full + 1 half — some listings round to "3 bath")
 - Assumable loan: VA loan
 - Buyer situation: Veteran, VA entitlement available for substitution
+- Agent: Spencer McGee, Move Real Estate (503-836-2010)
 
 ## Existing VA Loan
 
@@ -30,12 +34,35 @@
 
 This assumption looks potentially strong because the loan balance is high relative to the purchase price and the 3.490% rate is meaningfully below current market mortgage rates. The relatively small equity gap is the key advantage compared with many assumable-loan listings.
 
+### Cash to Close (Planning)
+
+| Item | Rough range |
+|---|---|
+| Equity gap | ~$48,000 |
+| VA assumption funding fee (0.5% of balance) | ~$3,150 |
+| Buyer closing costs / prepaids | ~$5,000–$10,000+ |
+| Inspection / appraisal | ~$1,000–$2,000 |
+| **Total cash planning range** | **~$57,000–$63,000+** |
+
+### Assumption Friction
+
+- VA loan assumptions often take **2–4 months** for servicer approval — plan lease timing and seller patience accordingly.
+- Confirm whether the assumption package has already been started with the servicer.
+- Seller entitlement restoration depends on a completed assumption — not just an accepted offer.
+
 ## Why This Could Be Attractive
 
 - Low-rate debt is the main economic benefit.
 - The current list price is only about $4,000 above the March 2022 sale price.
 - VA entitlement substitution should make the transaction cleaner for the seller because their entitlement can be restored/released if processed correctly.
 - If the house and location check out, this could be materially better than financing the same home with a new market-rate mortgage.
+
+## Market / Negotiation
+
+- Rock Creek homes are averaging ~**31 days** to sell; this listing has sat **~125+ days** with **two price cuts** ($40k total off the original ask).
+- Both things can be true: the current price looks reasonable on comps, **and** there may be room to negotiate because of seller patience.
+- Seller asking roughly flat to their 2022 purchase ($675k → $679k) suggests they are not trying to capture large appreciation — but the DOM and cuts imply buyers have pushed back at higher prices.
+- Worth asking: any prior offers, inspection issues, or failed assumptions?
 
 ## Diligence Questions
 
@@ -46,11 +73,14 @@ This assumption looks potentially strong because the loan balance is high relati
 - Confirm whether the seller or listing agent has the current loan statement.
 - Confirm whether there are any second liens, solar loans, assessments, or unusual title issues.
 - Confirm all assumption fees and VA funding fee treatment.
+- Confirm actual bed/bath count (2.5 vs 3 full) for comp comparisons.
 
 ## Inspection Focus
 
 - Roof age and remaining useful life
-- Siding, exterior trim, and water intrusion risk
+- Cedar siding, exterior trim, and water intrusion risk (cedar needs ongoing maintenance)
+- Crawl space: moisture, insulation, pest history, ventilation
+- Covered deck structure and waterproofing / flashing
 - Drainage around the lot and foundation
 - HVAC documentation, especially because listing notes mention new HVAC in 2026
 - Sewer line condition
@@ -58,9 +88,17 @@ This assumption looks potentially strong because the loan balance is high relati
 - Plumbing age/materials
 - Windows, insulation, and general energy efficiency
 
+## Lifestyle and Location
+
+- **Suburban west side**, not inner Portland — Washington County with a Portland mailing address.
+- **Car-dependent**: Walk Score roughly 40–57; weak transit. Fine for Bethany/Tanasbourne/Highway 26 commutes; ~30 min to downtown Portland by car in normal traffic.
+- Good fit if west-side employment (Intel, Nike, tech corridor) matters more than urban walkability.
+- **1987 build** with crawl space (not full basement) — higher inspection priority on moisture and structure.
+- Listing highlights: upstairs flex room, covered deck, RV/boat side parking.
+
 ## Initial Take
 
-Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $48,000 equity gap is rare enough to justify moving quickly.
+Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $48,000 equity gap is rare enough to justify moving quickly — but only if ~$3,700/month all-in and a 5–7+ year hold are comfortable (see budget tension below).
 
 Offer should be contingent on successful VA loan assumption, entitlement substitution/release, financing approval, satisfactory inspection, and acceptable title review.
 
@@ -69,7 +107,7 @@ Offer should be contingent on successful VA loan assumption, entitlement substit
 - Area: Rock Creek / Bethany-adjacent part of Portland 97229
 - General neighborhood read: suburban, family-friendly, quiet, generally considered safe, with parks/trails nearby
 - Transportation/lifestyle: car-oriented, with access to Bethany, Tanasbourne, Highway 26, Intel/Nike-area employment hubs, and westside amenities
-- Schools shown in public listing source: Lenox Elementary, Poynter Middle, Liberty High
+- Schools shown in public listing source: Lenox Elementary, Poynter Middle, Liberty High (Beaverton SD)
 - Important caveat: some nearby Bethany comps may feed into different Beaverton schools, so school-boundary differences should be considered when comparing value.
 
 Current price-per-square-foot estimate:
@@ -84,13 +122,15 @@ Recent public comp notes:
 - 6736 NW Mayflower Pl: sold March 2026 for $630,000; 2,004 sq ft; about $314/sq ft; 4 bed / 3 bath
 - 19955 NW Nestucca Dr: sold May 2026 for about $638,395; 1,658 sq ft; about $385/sq ft; 3 bed / 2 bath, but much smaller
 - 21095 NW Rock Creek Blvd: sold May 2024 for $605,000; 1,738 sq ft; about $348/sq ft; 3 bed / 2 bath
-- 4445 NW Kahneeta Dr: sold March 2026 for $749,000; appears more upgraded/premium from public listing description
+- 4445 NW Kahneeta Dr: sold March 2026 for $749,000; premium/upgraded comp — verify sq ft and $/sq ft before using in valuation
 
 First-pass value read:
 
-The $679,000 asking price does not look obviously overpriced based on rough public comps. At about $291/sq ft, the home appears reasonable relative to several recent Rock Creek / Bethany-area sales. The closest size comp from the quick review is 14923 NW Fawnlily Dr, which sold for $699,000 at 2,454 sq ft; Peregine is slightly smaller, listed $20,000 lower, and has one fewer bedroom.
+The $679,000 asking price does not look obviously overpriced based on rough public comps. At about $291/sq ft, the home appears reasonable relative to several recent Rock Creek / Bethany-area sales. The closest size comp from the quick review is 14923 NW Fawnlily Dr, which sold for $699,000 at 2,454 sq ft; Peregrine is slightly smaller, listed $20,000 lower, and has one fewer bedroom.
 
 The fact that this home last sold for $675,000 in March 2022 and is now listed for $679,000 suggests the seller is asking almost flat to their purchase price, which does not look aggressive for a 2026 listing. The main diligence items are condition, exact micro-location, school preference, and whether any premium is being baked in for the assumable VA loan.
+
+The long DOM and price cuts are separate from valuation: they suggest negotiation leverage even if the current ask is comp-reasonable. Consider opening below ask unless inspection and tour are exceptionally clean.
 
 For a stronger valuation check, ask a buyer agent for an MLS CMA using detached homes within about 0.5-1 mile, sold in the last 3-6 months, similar square footage, similar age/condition, and similar school boundaries if possible.
 
@@ -135,7 +175,7 @@ Worst-case risks:
 - Need to move in 2-3 years while home values are flat or down.
 - A 5%-10% market decline could wipe out most or all of the initial equity gap after selling costs.
 - Repairs or upgrades may not translate into resale value.
-- Renting it out may not pencil if the all-in cost is around $3,700/month and market rent is lower after vacancy, maintenance, management, and repairs.
+- Renting it out may not pencil: all-in cost ~$3,700/month vs rough 97229 3-bed market rent ~$2,500–$3,000/month before vacancy (~5–8%), maintenance, management, and repairs — likely negative cash flow.
 - Selling later with an assumable VA loan could help attract buyers, but it is not guaranteed because future buyers may face a larger equity gap and slow assumption timelines.
 - Buying mainly because the loan is attractive could be a mistake if the house, commute, school boundaries, or neighborhood are not a good long-term fit.
 
@@ -184,9 +224,9 @@ Revised take: the assumable loan is still the better debt, but a $500,000 home w
 - Current rent: about $2,000/month
 - Estimated all-in monthly cost for this house: roughly $3,600-$3,900/month, depending on taxes, insurance, HOA, and maintenance
 - Potential monthly cash-flow difference versus rent: roughly $1,600-$1,900/month
-- Cash needed for assumption: about $48,000 equity gap plus closing costs and prepaids; rough planning range could be $55,000-$65,000+
+- Cash needed for assumption: about $48,000 equity gap plus closing costs and prepaids; rough planning range ~$57,000–$63,000+ (see cash-to-close table above)
 
-If continuing to rent, the financial comparison depends on actually investing the avoided upfront cash and the monthly difference. For example, investing $60,000 upfront plus $1,700/month at a hypothetical 7% annual return could grow to roughly:
+If continuing to rent, the financial comparison depends on actually investing the avoided upfront cash and the monthly difference. For example, investing $60,000 upfront plus $1,700/month at a hypothetical **7% annual return (optimistic — assumes consistent investing every month)** could grow to roughly:
 
 - 5 years: about $207,000
 - 10 years: about $415,000
@@ -206,4 +246,18 @@ These rough estimates are surprisingly close. Renting and investing may be finan
 4. ODVA 20-year financing: strong equity-building option, but only if the higher required payment is very comfortable.
 5. $500k new construction at regular current market rates: less compelling financially, but could make sense for lifestyle, lower maintenance, warranty, or location reasons.
 
-Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, and whether the inspection confirms this house is in good condition.
+### Budget Tension (vs Other Listings)
+
+Working monthly budget target from compare sheet: **~$3,000/month all-in**. Peregrine at **~$3,700/month** is ~$700/month over that.
+
+| If you optimize for… | Best fit |
+|---|---|
+| Lowest upfront cash (~$48k gap) | **Peregrine** |
+| Lowest monthly (~$2,100–$2,750) | **Beaverton / Chemeketa** |
+| Best rate on lowest balance | **Beaverton (2.7%)** |
+| Easiest assumption to close | **Peregrine** (small gap, high LTV) |
+| Fits ~$3k/month budget | **Not Peregrine** |
+
+Peregrine wins on **debt quality and upfront cash**; it loses on **monthly stretch** unless the budget target moves to ~$3,700+ or the hold period is long enough (5–7+ years) that the rate advantage dominates.
+
+Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether ~$3,700/month is acceptable, and whether the inspection confirms this house is in good condition.
