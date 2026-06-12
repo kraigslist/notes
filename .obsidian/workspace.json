@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "d40beb8892cb3d77",
+    "type": "split",
+    "children": [
+      {
+        "id": "b76a70ebf3efb67a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f951e633edf82e69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "real-estate/houses/2981-SW-187th-Ave-Beaverton-OR-97003.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2981-SW-187th-Ave-Beaverton-OR-97003"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3d204ed1b510e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "40f7ffc2be6d536c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44fb5384ccefcb4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff7d764b01be58c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6a23bbf1eb5218d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1fa90811db3c5463",
+    "type": "split",
+    "children": [
+      {
+        "id": "feec02cc96bd1b06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bb502fd3a2db2d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "real-estate/houses/5585-NW-Peregine-Pl-Portland-OR-97229.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 5585-NW-Peregine-Pl-Portland-OR-97229"
+            }
+          },
+          {
+            "id": "24f9acef5a5ea4a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "real-estate/houses/5585-NW-Peregine-Pl-Portland-OR-97229.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 5585-NW-Peregine-Pl-Portland-OR-97229"
+            }
+          },
+          {
+            "id": "99751d6b2326c4de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ba7a9c6ebc088b71",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "17565e9ee482d4c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "real-estate/houses/5585-NW-Peregine-Pl-Portland-OR-97229.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 5585-NW-Peregine-Pl-Portland-OR-97229"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f951e633edf82e69",
+  "lastOpenFiles": [
+    "real-estate/compare.md",
+    "real-estate/houses/5585-NW-Peregine-Pl-Portland-OR-97229.md",
+    "real-estate/houses/2981-SW-187th-Ave-Beaverton-OR-97003.md",
+    "real-estate/houses/17770-NW Chemeketa-Ct-Portland-OR-97229.md"
+  ]
+}
