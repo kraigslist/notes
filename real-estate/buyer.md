@@ -21,6 +21,39 @@ Personal context for house hunting — situation, budget, and what I'm optimizin
   - VA substitution requires my entitlement; seller's entitlement is typically released when I assume
 - **Property type:** TBD — detached preferred, but open if monthly cost and HOA diligence work out
 
+## Income
+
+W-2 employment at Nike (Software Engineer, salaried, biweekly pay). Source: payslips Jan 2025 – Jun 2026 ([[../finance/income|income]] for full detail).
+
+### Base salary (for lender math)
+
+| Metric | Amount | Notes |
+|---|---|---|
+| Biweekly gross (base) | ~$7,443 (2025) → ~$7,476 (2026) | Regular salary checks only |
+| Annualized base gross | ~**$193k** (2025) / ~**$194k** (2026) | × 26 pay periods |
+| Monthly gross (lender) | ~**$16,100/mo** | Annual base ÷ 12 |
+
+Small merit increase effective early 2026 (~$33/paycheck).
+
+### Take-home (for cash-flow / budget)
+
+| Metric | Amount | Notes |
+|---|---|---|
+| Typical net per paycheck | ~**$3,280–3,295** | Base salary checks |
+| Typical monthly net | ~**$6,560–6,590** | 2 paychecks/mo |
+| 401(k) deferral | ~$860/check (~11.5%) | Pre-tax — reduces net but builds assets |
+
+2025 also included a **~$14k performance bonus** (Aug 2025 PSP + merit lump sum; gross $21,692 that period, net ~$9,435). Treat bonus as supplemental, not recurring housing budget.
+
+Some Q4 2025 checks had higher net ($3,760–4,130) from tax adjustments — not a raise. Use the ~$3,280 baseline for conservative budgeting.
+
+### What this means for buying
+
+- **Stable W-2 income** supports assumption/qualification on base salary (~$193–194k/yr gross).
+- **Housing budget vs income:** ~$3k/mo all-in target ≈ **46% of typical net take-home** (~$6,570) — workable but tight; equity gap and reserves matter more than monthly P&I alone.
+- **Upfront cash bottleneck** (equity gap $48k–$189k on current candidates) is the bigger constraint vs monthly payment capacity.
+- Bonus and Q4 tax-adjustment checks add flexibility for closing costs/reserves but shouldn't be counted in recurring monthly budget.
+
 ## Budget
 
 ### Monthly (all-in)
