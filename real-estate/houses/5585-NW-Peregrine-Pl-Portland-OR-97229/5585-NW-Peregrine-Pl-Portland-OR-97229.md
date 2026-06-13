@@ -270,3 +270,42 @@ Working monthly budget target from compare sheet: **~$3,000/month all-in**. Pere
 Peregrine wins on **debt quality and upfront cash**; it loses on **monthly stretch** unless the budget target moves to ~$3,650+ or the hold period is long enough (5–7+ years) that the rate advantage dominates.
 
 Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether **$3,637.57/month** (confirmed) plus utilities is acceptable, and whether the inspection confirms this house is in good condition.
+
+## Amortization Schedule
+
+Source: [VA Mortgage Calculator (calculator.net)](https://www.calculator.net/va-mortgage-calculator.html?chouseprice=675%2C000&cdownpayment=0&cdownpaymentunit=p&cloanterm=30&cinterestrate=3.49&vaeligibility=v&valoanbefore=n&disabled=n&fundingfeeoption=f&cmoreoption=1&caddoptional=1&cpropertytaxes=5%2C000&cpropertytaxesunit=d&chomeins=2%2C000&choa=0&cothercost=0&cstartmonth=3&cstartyear=2022&cpropertytaxesincrease=0&chomeinsincrease=0&choainsincrease=0&cothercostincrease=0&cextramonthly=0&cextramonthlystartmonth=6&cextramonthlystartyear=2026&cextrayearly=0&cextrayearlystartmonth=6&cextrayearlystartyear=2026&cextraonetime=0&cextraonetimestartmonth=6&cextraonetimestartyear=2026&printit=0&x=Calculate#varesult) — $675k purchase, 0% down, 3.49% rate, 30-year term, Mar 2022 start, VA funding fee financed.
+
+Original 30-year schedule from loan origination (March 2022). Current balance ~$628k aligns with **year 5** (ending balance $618,366 at 2/27; actual balance may vary slightly with payment timing). Confirmed servicer payment ($3,096.91 P&I) is ~$4.50/mo above the calculator's implied payment — likely a small origination-balance difference (~$690.5k actual vs ~$689.5k in schedule).
+
+| Year | Period | Interest | Principal | Ending Balance |
+|---:|---|---:|---:|---:|
+| 1 | 3/22–2/23 | $23,853 | $13,255 | $676,257 |
+| 2 | 3/23–2/24 | $23,383 | $13,725 | $662,532 |
+| 3 | 3/24–2/25 | $22,896 | $14,212 | $648,320 |
+| 4 | 3/25–2/26 | $22,392 | $14,716 | $633,604 |
+| 5 | 3/26–2/27 | $21,871 | $15,238 | $618,366 |
+| 6 | 3/27–2/28 | $21,330 | $15,778 | $602,588 |
+| 7 | 3/28–2/29 | $20,771 | $16,338 | $586,250 |
+| 8 | 3/29–2/30 | $20,191 | $16,917 | $569,333 |
+| 9 | 3/30–2/31 | $19,591 | $17,517 | $551,816 |
+| 10 | 3/31–2/32 | $18,970 | $18,138 | $533,677 |
+| 11 | 3/32–2/33 | $18,327 | $18,782 | $514,896 |
+| 12 | 3/33–2/34 | $17,661 | $19,448 | $495,448 |
+| 13 | 3/34–2/35 | $16,971 | $20,137 | $475,310 |
+| 14 | 3/35–2/36 | $16,257 | $20,852 | $454,459 |
+| 15 | 3/36–2/37 | $15,517 | $21,591 | $432,868 |
+| 16 | 3/37–2/38 | $14,752 | $22,357 | $410,511 |
+| 17 | 3/38–2/39 | $13,959 | $23,150 | $387,362 |
+| 18 | 3/39–2/40 | $13,138 | $23,971 | $363,391 |
+| 19 | 3/40–2/41 | $12,288 | $24,821 | $338,570 |
+| 20 | 3/41–2/42 | $11,408 | $25,701 | $312,869 |
+| 21 | 3/42–2/43 | $10,496 | $26,612 | $286,257 |
+| 22 | 3/43–2/44 | $9,552 | $27,556 | $258,701 |
+| 23 | 3/44–2/45 | $8,575 | $28,533 | $230,168 |
+| 24 | 3/45–2/46 | $7,563 | $29,545 | $200,622 |
+| 25 | 3/46–2/47 | $6,515 | $30,593 | $170,029 |
+| 26 | 3/47–2/48 | $5,431 | $31,678 | $138,352 |
+| 27 | 3/48–2/49 | $4,307 | $32,801 | $105,550 |
+| 28 | 3/49–2/50 | $3,144 | $33,965 | $71,586 |
+| 29 | 3/50–2/51 | $1,939 | $35,169 | $36,416 |
+| 30 | 3/51–2/52 | $692 | $36,416 | $0 |
