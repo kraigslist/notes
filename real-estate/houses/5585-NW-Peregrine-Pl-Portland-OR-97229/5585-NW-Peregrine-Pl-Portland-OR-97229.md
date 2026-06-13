@@ -271,9 +271,36 @@ Peregrine wins on **debt quality and upfront cash**; it loses on **monthly stret
 
 Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether **$3,637.57/month** (confirmed) plus utilities is acceptable, and whether the inspection confirms this house is in good condition.
 
+## VA Loan Calculator Model (Origination)
+
+Source: [VA Mortgage Calculator (calculator.net)](https://www.calculator.net/va-mortgage-calculator.html?chouseprice=675%2C000&cdownpayment=0&cdownpaymentunit=p&cloanterm=30&cinterestrate=3.49&vaeligibility=v&valoanbefore=n&disabled=n&fundingfeeoption=f&cmoreoption=1&caddoptional=1&cpropertytaxes=4%2C765&cpropertytaxesunit=d&chomeins=1%2C720&choa=0&cothercost=0&cstartmonth=3&cstartyear=2022&cpropertytaxesincrease=0&chomeinsincrease=0&choainsincrease=0&cothercostincrease=0&cextramonthly=0&cextramonthlystartmonth=6&cextramonthlystartyear=2026&cextrayearly=0&cextrayearlystartmonth=6&cextrayearlystartyear=2026&cextraonetime=0&cextraonetimestartmonth=6&cextraonetimestartyear=2026&printit=0&x=Calculate#varesult) — $675k purchase, 0% down, 3.49% rate, 30-year term, Mar 2022 start, VA funding fee financed, $4,765/yr taxes, $1,720/yr insurance.
+
+Models how the loan was originated in March 2022. Monthly total ($3,632.79) is within ~$5/mo of the confirmed servicer payment ($3,637.57); remaining gap is ~$4.50/mo higher P&I on the actual loan.
+
+### Monthly & Lifetime Costs
+
+| | Monthly | Total (30 yr) |
+|---|---:|---:|
+| Mortgage payment (P&I) | $3,092.37 | $1,113,253.78 |
+| Property tax | $397.08 | $142,950.00 |
+| Home insurance | $143.33 | $51,600.00 |
+| **Total out-of-pocket** | **$3,632.79** | **$1,307,803.78** |
+
+### Loan Terms at Origination
+
+| | Amount |
+|---|---:|
+| House price | $675,000.00 |
+| VA funding fee (2.15%) | $14,512.50 |
+| Down payment | $0.00 |
+| **Loan amount** | **$689,512.50** |
+| Total of 360 mortgage payments | $1,113,253.78 |
+| Total interest | $423,741.28 |
+| Mortgage payoff date | Mar. 2052 |
+
 ## Amortization Schedule
 
-Source: [VA Mortgage Calculator (calculator.net)](https://www.calculator.net/va-mortgage-calculator.html?chouseprice=675%2C000&cdownpayment=0&cdownpaymentunit=p&cloanterm=30&cinterestrate=3.49&vaeligibility=v&valoanbefore=n&disabled=n&fundingfeeoption=f&cmoreoption=1&caddoptional=1&cpropertytaxes=5%2C000&cpropertytaxesunit=d&chomeins=2%2C000&choa=0&cothercost=0&cstartmonth=3&cstartyear=2022&cpropertytaxesincrease=0&chomeinsincrease=0&choainsincrease=0&cothercostincrease=0&cextramonthly=0&cextramonthlystartmonth=6&cextramonthlystartyear=2026&cextrayearly=0&cextrayearlystartmonth=6&cextrayearlystartyear=2026&cextraonetime=0&cextraonetimestartmonth=6&cextraonetimestartyear=2026&printit=0&x=Calculate#varesult) — $675k purchase, 0% down, 3.49% rate, 30-year term, Mar 2022 start, VA funding fee financed.
+Source: same [VA Mortgage Calculator](https://www.calculator.net/va-mortgage-calculator.html?chouseprice=675%2C000&cdownpayment=0&cdownpaymentunit=p&cloanterm=30&cinterestrate=3.49&vaeligibility=v&valoanbefore=n&disabled=n&fundingfeeoption=f&cmoreoption=1&caddoptional=1&cpropertytaxes=4%2C765&cpropertytaxesunit=d&chomeins=1%2C720&choa=0&cothercost=0&cstartmonth=3&cstartyear=2022&cpropertytaxesincrease=0&chomeinsincrease=0&choainsincrease=0&cothercostincrease=0&cextramonthly=0&cextramonthlystartmonth=6&cextramonthlystartyear=2026&cextrayearly=0&cextrayearlystartmonth=6&cextrayearlystartyear=2026&cextraonetime=0&cextraonetimestartmonth=6&cextraonetimestartyear=2026&printit=0&x=Calculate#varesult) (annual amortization table below).
 
 Original 30-year schedule from loan origination (March 2022). Current balance ~$628k aligns with **year 5** (ending balance $618,366 at 2/27; actual balance may vary slightly with payment timing). Confirmed servicer payment ($3,096.91 P&I) is ~$4.50/mo above the calculator's implied payment — likely a small origination-balance difference (~$690.5k actual vs ~$689.5k in schedule).
 
@@ -309,3 +336,5 @@ Original 30-year schedule from loan origination (March 2022). Current balance ~$
 | 28 | 3/49–2/50 | $3,144 | $33,965 | $71,586 |
 | 29 | 3/50–2/51 | $1,939 | $35,169 | $36,416 |
 | 30 | 3/51–2/52 | $692 | $36,416 | $0 |
+
+
