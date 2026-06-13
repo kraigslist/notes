@@ -13,23 +13,32 @@
 
 ## Existing VA Loan
 
-- Outstanding balance: about $631,000
+*Confirmed from seller/loan statement (June 2026).*
+
+- Outstanding balance: about $628,000
 - Interest rate: 3.490%
 - Term: 30-year loan, ending in 2052
 - Estimated remaining term: about 25-26 years
-- Estimated principal and interest payment: about $3,090-$3,100/month
-- Property taxes: about $4,765/year, or roughly $397/month
+- **Confirmed monthly payment: $3,637.57** (taxes and insurance included via escrow)
+
+| Component | Monthly |
+|---|---|
+| Principal | $1,267.62 |
+| Interest | $1,829.29 |
+| Escrow (tax + insurance) | $540.66 |
+| **Total** | **$3,637.57** |
+
+- Principal + interest only: $3,096.91/month
+- Escrow implies ~$6,488/year for taxes + insurance combined (~$4,765 taxes + ~$1,723 insurance at current escrow)
 - HOA: none
-- Estimated monthly cost before insurance: about $3,500/month
-- Estimated homeowners insurance planning range: about $150-$250/month
-- Estimated all-in monthly cost before utilities and maintenance: about $3,650-$3,750/month
-- Working monthly planning number: about $3,700/month
+- Utilities and maintenance: additional on top of $3,637.57
+- Working monthly planning number: **$3,638/month** (round to ~$3,650 with small maintenance buffer)
 
 ## Assumption Math
 
 - Purchase price: $679,000
-- Assumed loan balance: about $631,000
-- Estimated equity gap: about $48,000
+- Assumed loan balance: about $628,000
+- **Equity gap: about $51,000**
 - Additional cash needed: equity gap plus closing costs, prepaid taxes/insurance, inspection costs, and any VA assumption/funding fees
 
 This assumption looks potentially strong because the loan balance is high relative to the purchase price and the 3.490% rate is meaningfully below current market mortgage rates. The relatively small equity gap is the key advantage compared with many assumable-loan listings.
@@ -38,11 +47,11 @@ This assumption looks potentially strong because the loan balance is high relati
 
 | Item | Rough range |
 |---|---|
-| Equity gap | ~$48,000 |
-| VA assumption funding fee (0.5% of balance) | ~$3,150 |
+| Equity gap | ~$51,000 |
+| VA assumption funding fee (0.5% of balance) | ~$3,140 |
 | Buyer closing costs / prepaids | ~$5,000–$10,000+ |
 | Inspection / appraisal | ~$1,000–$2,000 |
-| **Total cash planning range** | **~$57,000–$63,000+** |
+| **Total cash planning range** | **~$60,000–$66,000+** |
 
 ### Assumption Friction
 
@@ -66,7 +75,7 @@ This assumption looks potentially strong because the loan balance is high relati
 
 ## Diligence Questions
 
-- Confirm the exact monthly payment breakdown: principal, interest, taxes, insurance, and any HOA.
+- ~~Confirm the exact monthly payment breakdown~~ — **confirmed**: $3,637.57/mo ($1,267.62 principal / $1,829.29 interest / $540.66 escrow)
 - Confirm the servicer allows VA entitlement substitution and seller liability release.
 - Ask whether the assumption package has already been started.
 - Ask the servicer's expected timeline for assumption approval.
@@ -98,7 +107,7 @@ This assumption looks potentially strong because the loan balance is high relati
 
 ## Initial Take
 
-Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $48,000 equity gap is rare enough to justify moving quickly — but only if ~$3,700/month all-in and a 5–7+ year hold are comfortable (see budget tension below).
+Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $51,000 equity gap is rare enough to justify moving quickly — but only if ~$3,638/month (confirmed) plus utilities/maintenance and a 5–7+ year hold are comfortable (see budget tension below).
 
 Offer should be contingent on successful VA loan assumption, entitlement substitution/release, financing approval, satisfactory inspection, and acceptable title review.
 
@@ -143,25 +152,25 @@ The biggest short-hold risk is not the low-rate loan payment. It is transaction 
 Assumptions:
 
 - Purchase price: $679,000
-- Assumed loan balance: about $631,000
-- Estimated upfront equity gap: about $48,000, before closing costs and prepaids
+- Assumed loan balance: about $628,000
+- Estimated upfront equity gap: about $51,000, before closing costs and prepaids
 - Interest rate: 3.490%
-- Estimated principal and interest payment: about $3,098/month
+- Confirmed principal payment: $1,267.62/month
 - Estimated selling costs: 6% of resale price
 
 After 2 years:
 
-- Estimated remaining loan balance: about $600,000
-- Estimated principal paid down: about $31,000
-- If resale value is flat at $679,000, estimated net equity after selling costs: about $39,000
-- Compared with the initial $48,000 equity gap, this is roughly $9,000 behind before counting buyer closing costs, inspections, moving costs, repairs, or upgrades.
+- Estimated remaining loan balance: about $597,600
+- Estimated principal paid down: about $30,400
+- If resale value is flat at $679,000, estimated net equity after selling costs: about $41,000
+- Compared with the initial $51,000 equity gap, this is roughly $10,000 behind before counting buyer closing costs, inspections, moving costs, repairs, or upgrades.
 
 After 3 years:
 
-- Estimated remaining loan balance: about $583,000
-- Estimated principal paid down: about $48,000
-- If resale value is flat at $679,000, estimated net equity after selling costs: about $55,000
-- Compared with the initial $48,000 equity gap, this is roughly $7,000 ahead before counting buyer closing costs, inspections, moving costs, repairs, or upgrades.
+- Estimated remaining loan balance: about $582,400
+- Estimated principal paid down: about $45,600
+- If resale value is flat at $679,000, estimated net equity after selling costs: about $56,000
+- Compared with the initial $51,000 equity gap, this is roughly $5,000 ahead before counting buyer closing costs, inspections, moving costs, repairs, or upgrades.
 
 Market downside examples after selling costs:
 
@@ -175,7 +184,7 @@ Worst-case risks:
 - Need to move in 2-3 years while home values are flat or down.
 - A 5%-10% market decline could wipe out most or all of the initial equity gap after selling costs.
 - Repairs or upgrades may not translate into resale value.
-- Renting it out may not pencil: all-in cost ~$3,700/month vs rough 97229 3-bed market rent ~$2,500–$3,000/month before vacancy (~5–8%), maintenance, management, and repairs — likely negative cash flow.
+- Renting it out may not pencil: confirmed housing cost ~$3,638/month vs rough 97229 3-bed market rent ~$2,500–$3,000/month before vacancy (~5–8%), maintenance, management, and repairs — likely negative cash flow.
 - Selling later with an assumable VA loan could help attract buyers, but it is not guaranteed because future buyers may face a larger equity gap and slow assumption timelines.
 - Buying mainly because the loan is attractive could be a mistake if the house, commute, school boundaries, or neighborhood are not a good long-term fit.
 
@@ -213,18 +222,18 @@ The ODVA 20-year loan builds equity faster, but the required monthly payment is 
 
 Compared with the current assumable-loan house:
 
-- $679,000 assumable VA house at 3.490%: about $3,098/month principal and interest on the assumed $631,000 balance
-- $500,000 ODVA 30-year option at 5.250%: about $2,761/month principal and interest
-- $500,000 ODVA 20-year option at 5.000%: about $3,300/month principal and interest
+- $679,000 assumable VA house at 3.490%: **$3,637.57/month total** ($3,096.91 P&I + $540.66 escrow) on the assumed $628,000 balance
+- $500,000 ODVA 30-year option at 5.250%: about $2,761/month P&I (+ taxes/insurance on top)
+- $500,000 ODVA 20-year option at 5.000%: about $3,300/month P&I (+ taxes/insurance on top)
 
 Revised take: the assumable loan is still the better debt, but a $500,000 home with ODVA 30-year financing may be the better total-budget option if the goal is lower monthly obligation and less financial stretch.
 
 ## Comparison: Continue Renting and Invest
 
 - Current rent: about $2,000/month
-- Estimated all-in monthly cost for this house: roughly $3,600-$3,900/month, depending on taxes, insurance, HOA, and maintenance
-- Potential monthly cash-flow difference versus rent: roughly $1,600-$1,900/month
-- Cash needed for assumption: about $48,000 equity gap plus closing costs and prepaids; rough planning range ~$57,000–$63,000+ (see cash-to-close table above)
+- Confirmed monthly housing cost: **$3,637.57** (P&I + escrow); add utilities and maintenance on top
+- Potential monthly cash-flow difference versus rent: roughly **$1,640/month** before utilities/maintenance
+- Cash needed for assumption: about $51,000 equity gap plus closing costs and prepaids; rough planning range ~$60,000–$66,000+ (see cash-to-close table above)
 
 If continuing to rent, the financial comparison depends on actually investing the avoided upfront cash and the monthly difference. For example, investing $60,000 upfront plus $1,700/month at a hypothetical **7% annual return (optimistic — assumes consistent investing every month)** could grow to roughly:
 
@@ -248,16 +257,16 @@ These rough estimates are surprisingly close. Renting and investing may be finan
 
 ### Budget Tension (vs Other Listings)
 
-Working monthly budget target from compare sheet: **~$3,000/month all-in**. Peregrine at **~$3,700/month** is ~$700/month over that.
+Working monthly budget target from compare sheet: **~$3,000/month all-in**. Peregrine at **$3,637.57/month confirmed** is ~$640/month over that (before utilities/maintenance).
 
 | If you optimize for… | Best fit |
 |---|---|
-| Lowest upfront cash (~$48k gap) | **Peregrine** |
+| Lowest upfront cash (~$51k gap) | **Peregrine** |
 | Lowest monthly (~$2,100–$2,750) | **Beaverton / Chemeketa** |
 | Best rate on lowest balance | **Beaverton (2.7%)** |
 | Easiest assumption to close | **Peregrine** (small gap, high LTV) |
 | Fits ~$3k/month budget | **Not Peregrine** |
 
-Peregrine wins on **debt quality and upfront cash**; it loses on **monthly stretch** unless the budget target moves to ~$3,700+ or the hold period is long enough (5–7+ years) that the rate advantage dominates.
+Peregrine wins on **debt quality and upfront cash**; it loses on **monthly stretch** unless the budget target moves to ~$3,650+ or the hold period is long enough (5–7+ years) that the rate advantage dominates.
 
-Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether ~$3,700/month is acceptable, and whether the inspection confirms this house is in good condition.
+Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether **$3,637.57/month** (confirmed) plus utilities is acceptable, and whether the inspection confirms this house is in good condition.

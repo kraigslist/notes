@@ -51,7 +51,7 @@ Some Q4 2025 checks had higher net ($3,760–4,130) from tax adjustments — not
 
 - **Stable W-2 income** supports assumption/qualification on base salary (~$193–194k/yr gross).
 - **Housing budget vs income:** ~$3k/mo all-in target ≈ **46% of typical net take-home** (~$6,570) — workable but tight; equity gap and reserves matter more than monthly P&I alone.
-- **Upfront cash bottleneck** (equity gap $48k–$189k on current candidates) is the bigger constraint vs monthly payment capacity.
+- **Upfront cash bottleneck** (equity gap $51k–$189k on current candidates) is the bigger constraint vs monthly payment capacity.
 - Bonus and Q4 tax-adjustment checks add flexibility for closing costs/reserves but shouldn't be counted in recurring monthly budget.
 
 ## Budget
@@ -72,7 +72,7 @@ Current rent ($2,000/mo) is the baseline; buying adds equity build-up, maintenan
 ### Upfront cash
 
 - **Equity gap:** Difference between purchase price and assumable loan balance — paid at closing
-- **Comfortable equity gap:** TBD — ranges from ~$48k (Peregine) to ~$189k (Chemeketa) on current candidates
+- **Comfortable equity gap:** TBD — ranges from ~$51k (Peregrine, confirmed) to ~$189k (Chemeketa) on current candidates
 - **Closing costs:** Assumption fees, VA funding fee, prepaids, inspection — see individual house files
 
 ## Decision Priorities

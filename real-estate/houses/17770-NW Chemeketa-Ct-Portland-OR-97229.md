@@ -53,13 +53,13 @@ The equity gap is about $189,000 before closing costs. That is the defining trad
 - Chemeketa list price: $639,000
 - Peregine list price: $679,000
 - Chemeketa assumed balance: about $450,000
-- Peregine assumed balance: about $631,000
+- Peregine assumed balance: about $628,000 (confirmed)
 - Chemeketa rate: 2.750%
 - Peregine rate: 3.490%
 - Chemeketa estimated P&I: about $2,075-$2,090/month
-- Peregine estimated P&I: about $3,090-$3,100/month
+- Peregine confirmed payment: $3,637.57/mo ($3,096.91 P&I + $540.66 escrow)
 - Chemeketa equity gap: about $189,000
-- Peregine equity gap: about $48,000
+- Peregine equity gap: about $51,000 (confirmed)
 
 Chemeketa looks much better for monthly affordability, but Peregine looks much better for upfront cash required. The right answer depends on whether the larger equity gap is comfortable.
 

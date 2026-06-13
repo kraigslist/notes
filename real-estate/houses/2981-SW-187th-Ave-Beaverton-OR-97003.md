@@ -67,10 +67,10 @@ The equity gap is the main tradeoff. It is much larger than the Peregine gap, bu
 - Beaverton estimated equity gap: about $100,000-$105,000
 
 - Peregine list price: $679,000
-- Peregine assumed balance: about $631,000
+- Peregine assumed balance: about $628,000 (confirmed)
 - Peregine rate: 3.490%
-- Peregine estimated P&I: about $3,090-$3,100/month
-- Peregine estimated equity gap: about $48,000
+- Peregine confirmed payment: $3,637.57/mo ($3,096.91 P&I + $540.66 escrow)
+- Peregine estimated equity gap: about $51,000 (confirmed)
 
 - Chemeketa list price: $639,000
 - Chemeketa assumed balance: about $450,000
