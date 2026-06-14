@@ -30,7 +30,7 @@ The 2.700% rate is excellent. The debt itself is the strongest part of this deal
 - Estimated all-in monthly cost before utilities, maintenance, and special assessments: about $2,030-$2,125/month
 - Working monthly planning number before utilities and maintenance: about $2,100/month
 
-This is very attractive from a monthly-payment perspective. Even with the HOA, the low-rate loan keeps the estimated monthly cost far below the larger Portland assumable-loan options.
+This is very attractive from a monthly-payment perspective. Even with the HOA, the low-rate loan keeps the estimated monthly cost manageable for ownership.
 
 ## Assumption Math
 
@@ -39,14 +39,14 @@ This is very attractive from a monthly-payment perspective. Even with the HOA, t
 - Estimated equity gap: about $100,000-$105,000
 - Additional cash needed: equity gap plus closing costs, prepaid taxes/insurance, inspection costs, and any loan assumption or VA fees
 
-The equity gap is the main tradeoff. It is much larger than the Peregine gap, but much smaller than the Chemeketa gap. If the cash is available without draining reserves, the monthly affordability looks very strong.
+The equity gap is the main tradeoff at about $100,000–$105,000. If the cash is available without draining reserves, the monthly affordability looks very strong.
 
 ## Why This Could Be Attractive
 
 - The 2.700% VA loan is extremely valuable relative to current mortgage rates.
 - Estimated all-in monthly cost appears close to a rent-like payment for ownership, even after HOA.
 - Principal paydown should be meaningful because the interest rate is low.
-- The purchase price is modest compared with the other assumable VA options reviewed.
+- The purchase price is modest for a west-side assumable VA loan.
 - The smaller price point reduces total market exposure compared with buying a $600k-$700k house.
 - If VA entitlement substitution works, the seller may be able to restore/release their entitlement.
 
@@ -57,28 +57,6 @@ The equity gap is the main tradeoff. It is much larger than the Peregine gap, bu
 - The upfront cash requirement is still around $100,000+ before closing costs and prepaids.
 - The listing price appears to have moved or differs across public sources, so confirm the actual current price and whether seller concessions are available.
 - A low mortgage rate should not outweigh fit, condition, HOA quality, commute, neighborhood, and resale liquidity.
-
-## Comparison Against Other Assumable VA Options
-
-- Beaverton list price: about $350,000-$354,900
-- Beaverton assumed balance: about $250,000
-- Beaverton rate: 2.700%
-- Beaverton estimated P&I: about $1,230-$1,250/month
-- Beaverton estimated equity gap: about $100,000-$105,000
-
-- Peregine list price: $679,000
-- Peregine assumed balance: about $628,000 (confirmed)
-- Peregine rate: 3.490%
-- Peregine confirmed payment: $3,637.57/mo ($3,096.91 P&I + $540.66 escrow)
-- Peregine estimated equity gap: about $51,000 (confirmed)
-
-- Chemeketa list price: $639,000
-- Chemeketa assumed balance: about $450,000
-- Chemeketa rate: 2.750%
-- Chemeketa estimated P&I: about $2,075-$2,090/month
-- Chemeketa estimated equity gap: about $189,000
-
-This Beaverton option looks best for monthly affordability and lowest total purchase price. Peregine is still best for minimizing the equity gap relative to purchase price. Chemeketa has a great rate and monthly payment, but requires much more cash upfront.
 
 ## Offer Scenario: $315,000
 
@@ -156,4 +134,4 @@ Practical take: the smaller purchase price makes the downside less scary than th
 
 This is worth pursuing if the HOA checks out and the house works for lifestyle/commute. The 2.700% assumable VA loan is excellent, and the estimated monthly cost around $2,100 before utilities and maintenance is compelling.
 
-The main caution is that this is not just a cheap-payment loan decision. The HOA is large enough to matter, and townhouse/condo diligence is more important than with a detached home. If the HOA is healthy and the $100,000+ cash requirement is comfortable, this may be the most financially balanced option so far: lower monthly cost than the other assumable homes, lower total price, and less market exposure.
+The main caution is that this is not just a cheap-payment loan decision. The HOA is large enough to matter, and townhouse/condo diligence is more important than with a detached home. If the HOA is healthy and the $100,000+ cash requirement is comfortable, the combination of low monthly cost, modest purchase price, and less market exposure is compelling.

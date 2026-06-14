@@ -73,5 +73,5 @@ Applies to all three listings:
 ## House Files
 
 - [2981 SW 187th Ave, Beaverton](houses/2981-SW-187th-Ave-Beaverton-OR-97003.md) — townhouse/condo, HOA, short-hold scenario
-- [17770 NW Chemeketa Ct, Portland](houses/17770-NW%20Chemeketa-Ct-Portland-OR-97229.md) — vs Peregine comparison, equity-gap focus
+- [17770 NW Chemeketa Ct, Portland](houses/17770-NW%20Chemeketa-Ct-Portland-OR-97229.md) — equity-gap focus, sub-$3k monthly estimate
 - [5585 NW Peregrine Pl, Portland](houses/5585-NW-Peregrine-Pl-Portland-OR-97229/5585-NW-Peregrine-Pl-Portland-OR-97229.md) — comps, short-hold, ODVA/rent-vs-buy context; **loan confirmed June 2026**

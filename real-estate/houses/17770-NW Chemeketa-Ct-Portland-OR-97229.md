@@ -25,7 +25,7 @@
 - Estimated all-in monthly cost before HOA, utilities, and maintenance: about $2,670-$2,780/month
 - Working monthly planning number before HOA: about $2,750/month
 
-This fits better under a $3,000/month all-in budget than the 5585 NW Peregine Pl option, assuming there is no large HOA and insurance is in the expected range.
+This appears to fit a ~$3,000/month all-in budget, assuming there is no large HOA and insurance is in the expected range.
 
 ## Assumption Math
 
@@ -48,21 +48,6 @@ The 2.750% loan is excellent, and the monthly payment is very attractive. The ma
 
 The equity gap is about $189,000 before closing costs. That is the defining tradeoff. If the cash is available without becoming house-poor, this could be a very strong monthly-payment deal. If covering the gap would drain reserves or require expensive secondary financing, the benefit of the low rate could be partly offset.
 
-## Comparison Against 5585 NW Peregine Pl
-
-- Chemeketa list price: $639,000
-- Peregine list price: $679,000
-- Chemeketa assumed balance: about $450,000
-- Peregine assumed balance: about $628,000 (confirmed)
-- Chemeketa rate: 2.750%
-- Peregine rate: 3.490%
-- Chemeketa estimated P&I: about $2,075-$2,090/month
-- Peregine confirmed payment: $3,637.57/mo ($3,096.91 P&I + $540.66 escrow)
-- Chemeketa equity gap: about $189,000
-- Peregine equity gap: about $51,000 (confirmed)
-
-Chemeketa looks much better for monthly affordability, but Peregine looks much better for upfront cash required. The right answer depends on whether the larger equity gap is comfortable.
-
 ## Diligence Questions
 
 - Confirm exact loan balance, payment, servicer, and remaining term.
@@ -76,4 +61,4 @@ Chemeketa looks much better for monthly affordability, but Peregine looks much b
 
 ## Initial Take
 
-Financially very interesting if the upfront cash is not a problem. The 2.750% rate and estimated sub-$3,000 all-in monthly cost are excellent, but the $189,000 equity gap makes this a very different opportunity from Peregine. This is probably the better monthly-budget property; Peregine is probably the easier assumption to close with less cash.
+Financially very interesting if the upfront cash is not a problem. The 2.750% rate and estimated sub-$3,000 all-in monthly cost are excellent, but the ~$189,000 equity gap is the main constraint — plan reserves and closing costs carefully before pursuing.

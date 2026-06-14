@@ -107,7 +107,7 @@ This assumption looks potentially strong because the loan balance is high relati
 
 ## Initial Take
 
-Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $51,000 equity gap is rare enough to justify moving quickly — but only if ~$3,638/month (confirmed) plus utilities/maintenance and a 5–7+ year hold are comfortable (see budget tension below).
+Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $51,000 equity gap is rare enough to justify moving quickly — but only if ~$3,638/month (confirmed) plus utilities/maintenance and a 5–7+ year hold are comfortable.
 
 Offer should be contingent on successful VA loan assumption, entitlement substitution/release, financing approval, satisfactory inspection, and acceptable title review.
 
@@ -254,20 +254,6 @@ These rough estimates are surprisingly close. Renting and investing may be finan
 3. Continue renting and invest aggressively: flexible and financially rational if the investing discipline is real.
 4. ODVA 20-year financing: strong equity-building option, but only if the higher required payment is very comfortable.
 5. $500k new construction at regular current market rates: less compelling financially, but could make sense for lifestyle, lower maintenance, warranty, or location reasons.
-
-### Budget Tension (vs Other Listings)
-
-Working monthly budget target from compare sheet: **~$3,000/month all-in**. Peregrine at **$3,637.57/month confirmed** is ~$640/month over that (before utilities/maintenance).
-
-| If you optimize for… | Best fit |
-|---|---|
-| Lowest upfront cash (~$51k gap) | **Peregrine** |
-| Lowest monthly (~$2,100–$2,750) | **Beaverton / Chemeketa** |
-| Best rate on lowest balance | **Beaverton (2.7%)** |
-| Easiest assumption to close | **Peregrine** (small gap, high LTV) |
-| Fits ~$3k/month budget | **Not Peregrine** |
-
-Peregrine wins on **debt quality and upfront cash**; it loses on **monthly stretch** unless the budget target moves to ~$3,650+ or the hold period is long enough (5–7+ years) that the rate advantage dominates.
 
 Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether **$3,637.57/month** (confirmed) plus utilities is acceptable, and whether the inspection confirms this house is in good condition.
 
