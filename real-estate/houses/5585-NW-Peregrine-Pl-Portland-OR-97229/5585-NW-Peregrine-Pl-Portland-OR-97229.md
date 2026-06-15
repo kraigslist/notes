@@ -4,6 +4,7 @@
 
 - Current list price: $679,000
 - Listed: February 5, 2026 (~125+ cumulative days on market)
+- **Assumable VA loan added to listing description ~June 9, 2026** (~5 days ago as of June 14) — most of the DOM predates this disclosure
 - Price history: $719,000 → $699,000 (March 18) → $679,000 (~mid-May)
 - Last sold: March 2022 for $675,000
 - Size: ~2,332 sq ft; 3 bed / 2.5 bath (2 full + 1 half — some listings round to "3 bath")
@@ -69,8 +70,9 @@ This assumption looks potentially strong because the loan balance is high relati
 
 ## Market / Negotiation
 
-- Rock Creek homes are averaging ~**31 days** to sell; this listing has sat **~125+ days** with **two price cuts** ($40k total off the original ask).
-- Both things can be true: the current price looks reasonable on comps, **and** there may be room to negotiate because of seller patience.
+- Rock Creek homes are averaging ~**31 days** to sell; this listing shows **~125+ days** on market with **two price cuts** ($40k total off the original ask).
+- **Important nuance:** the assumable VA loan was only added to the listing description ~**June 9, 2026**. Most of the DOM predates that disclosure — the listing was effectively competing as a conventional sale until very recently.
+- Both things can be true: the current price looks reasonable on comps, **and** there may be room to negotiate because of seller patience — but stale DOM is a weaker signal than it appears given the late assumable-loan marketing.
 - Seller asking roughly flat to their 2022 purchase ($675k → $679k) suggests they are not trying to capture large appreciation — but the DOM and cuts imply buyers have pushed back at higher prices.
 - Worth asking: any prior offers, inspection issues, or failed assumptions?
 
@@ -111,6 +113,48 @@ This assumption looks potentially strong because the loan balance is high relati
 Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $51,000 equity gap is rare enough to justify moving quickly — but only if ~$3,638/month (confirmed) plus utilities/maintenance and a 5–7+ year hold are comfortable.
 
 Offer should be contingent on successful VA loan assumption, entitlement substitution/release, financing approval, satisfactory inspection, and acceptable title review.
+
+## Sale & Price History
+
+*Researched June 2026 from public records and MLS aggregators (Compass, Realty Portland, etc.).*
+
+### Recorded Sales
+
+| Date | Event | Price | Notes |
+|---|---|---:|---|
+| Aug 7, 2009 | Sold | $387,500 | Long prior ownership era |
+| Mar 16, 2022 | Sold | $675,000 | Current seller's purchase |
+| Jul 14, 2021 | — | $671,900 | Not a separate sale — duplicate MLS vs. county record for the 2022 transaction |
+
+Only two real ownership changes in the last ~17 years. No prior MLS listing in 2024 or 2025; this is the seller's first attempt to sell since buying.
+
+**Long-term appreciation:** $387,500 → $675,000 over ~13 years = +74% total (~4.4%/yr) — mostly captured by the prior owner.
+
+**Since 2022:** Current ask of $679,000 is essentially flat (+0.6% over 4 years). After inflation, taxes, insurance, and maintenance, the seller is likely underwater on a net basis even at today's price.
+
+### Current Listing Price History
+
+| Date | Price | Change |
+|---|---:|---|
+| Feb 5, 2026 | $719,000 | Listed |
+| Mar 18, 2026 | $699,000 | −$20k (−2.8%) |
+| May 14, 2026 | $679,000 | −$20k (−2.9%) |
+| ~Jun 9, 2026 | — | Listing updated to disclose assumable VA loan |
+
+- Total reduction: $40k (−5.6%) from original ask
+- Days on market: ~129–133 days (vs. ~31 days for Rock Creek comps)
+- **Effective DOM with assumable loan marketed:** only ~5 days as of June 14
+- Current ask vs. 2022 purchase: +$4,000 (+0.6%)
+
+The seller tested a ~$44k premium at $719k and the market pushed back on price alone. The assumable VA loan — the main economic hook — was not in the public listing until ~June 9, so most of the long DOM reflects a conventional-buyer market, not VA-assumption buyers.
+
+### Price History Take
+
+- **On price:** $679k looks fair but not cheap relative to comps (~$291/sq ft). The original $719k ask was optimistic; the current price is grounded.
+- **On negotiation:** Long headline DOM is somewhat misleading — the assumable loan was only disclosed ~5 days ago, so real VA-buyer exposure is just starting. Price cuts still suggest leverage, but the listing may not have found its buyer pool yet. Worth asking about prior offers and why deals fell through.
+- **Real value is the loan, not the sticker price.** Even at full ask, assuming ~$628k at 3.49% vs. a new loan at ~6.5–7% saves roughly $1,200–$1,400/month in interest alone.
+- **Why 130+ days?** Much of it is likely explained by the assumable loan not being advertised until ~June 9. For ~4 months the listing competed as a conventional sale at prices that didn't comp well. Other possible factors: VA assumption timeline, narrow buyer pool even now, or condition/inspection issues from prior showings.
+- **Bottom line:** Legitimate opportunity that may still be early in its real marketing cycle. The assumable loan disclosure is recent — move deliberately, but don't over-weight stale DOM as a red flag. At $679k you're paying fair market; the win is locking in 3.49% for 25+ years.
 
 ## Neighborhood and Recent Sales Sanity Check
 
