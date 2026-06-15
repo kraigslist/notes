@@ -10,6 +10,7 @@
 - Assumable loan: VA loan
 - Buyer situation: Veteran, VA entitlement available for substitution
 - Agent: Spencer McGee, Move Real Estate (503-836-2010)
+- [House Viewing Video - [20260612] (YouTube)](https://youtu.be/-CJ6tUphxa4)
 
 ## Existing VA Loan
 
@@ -322,5 +323,3 @@ Original 30-year schedule from loan origination (March 2022). Current balance ~$
 | 28 | 3/49–2/50 | $3,144 | $33,965 | $71,586 |
 | 29 | 3/50–2/51 | $1,939 | $35,169 | $36,416 |
 | 30 | 3/51–2/52 | $692 | $36,416 | $0 |
-
-

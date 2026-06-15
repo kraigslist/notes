@@ -44,7 +44,7 @@ Monthly equivalents (lender / budget):
 | Oregon state tax | $536 | ~7.2% |
 | OR statewide transit (ORSTT) | $6 | ~0.1% |
 
-401(k) deferral is intentional — lowers take-home but counts toward assets/reserves.
+401(k) deferral is intentional — lowers take-home but counts toward assets/reserves. Current balance: **~$207k** (Jun 14, 2026; see [[net-worth|net worth]]).
 
 ## Notable paychecks
 
@@ -129,4 +129,6 @@ Gross and net by check date (base salary checks in normal range; outliers noted)
 
 ## Related
 
+- [[spending|Spending & budget]] — monthly outflows from bank statements
+- [[net-worth|Net worth]] — 401(k) balance, cash, investments
 - [[../real-estate/buyer|Buyer profile]] — how income maps to housing budget and assumption strategy

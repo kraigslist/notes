@@ -23,7 +23,7 @@ Personal context for house hunting — situation, budget, and what I'm optimizin
 
 ## Income
 
-W-2 employment at Nike (Software Engineer, salaried, biweekly pay). Source: payslips Jan 2025 – Jun 2026 ([[../finance/income|income]] for full detail).
+W-2 employment at Nike (Software Engineer, salaried, biweekly pay). Source: payslips Jan 2025 – Jun 2026 ([[../finance/income|income]] for full detail). Actual spending: [[../finance/spending|spending]].
 
 ### Base salary (for lender math)
 
@@ -50,8 +50,8 @@ Some Q4 2025 checks had higher net ($3,760–4,130) from tax adjustments — not
 ### What this means for buying
 
 - **Stable W-2 income** supports assumption/qualification on base salary (~$193–194k/yr gross).
-- **Housing budget vs income:** ~$3k/mo all-in target ≈ **46% of typical net take-home** (~$6,570) — workable but tight; equity gap and reserves matter more than monthly P&I alone.
-- **Upfront cash bottleneck** (equity gap $51k–$189k on current candidates) is the bigger constraint vs monthly payment capacity.
+- **Housing budget vs income:** ~$3k/mo all-in target ≈ **46% of typical net take-home** (~$6,570) — comfortable; baseline living leaves ~$2,290/mo surplus, and $3k PITI only adds ~$1,010 vs. rent ([[../finance/spending|spending]]). Equity gap and reserves matter more than monthly P&I alone.
+- **Upfront cash:** ~$79k liquid (Chase + NFCU checking, Jun 2026). Peregrine (~$51k gap) is coverable from cash alone; Chemeketa (~$189k) needs taxable brokerage too ([[../finance/net-worth|net worth]]).
 - Bonus and Q4 tax-adjustment checks add flexibility for closing costs/reserves but shouldn't be counted in recurring monthly budget.
 
 ## Budget
@@ -72,7 +72,7 @@ Current rent ($2,000/mo) is the baseline; buying adds equity build-up, maintenan
 ### Upfront cash
 
 - **Equity gap:** Difference between purchase price and assumable loan balance — paid at closing
-- **Comfortable equity gap:** TBD — ranges from ~$51k (Peregrine, confirmed) to ~$189k (Chemeketa) on current candidates
+- **Liquid cash available:** ~$79k checking (Jun 2026) — enough for Peregrine (~$51k gap + closing) with ~$18–23k left; Chemeketa (~$189k) requires ~$163k taxable brokerage on top
 - **Closing costs:** Assumption fees, VA funding fee, prepaids, inspection — see individual house files
 
 ## Decision Priorities
