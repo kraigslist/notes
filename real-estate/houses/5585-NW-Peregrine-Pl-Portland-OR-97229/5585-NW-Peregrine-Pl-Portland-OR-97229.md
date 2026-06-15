@@ -76,14 +76,14 @@ This assumption looks potentially strong because the loan balance is high relati
 
 ## Diligence Questions
 
-- ~~Confirm the exact monthly payment breakdown~~ — **confirmed**: $3,637.57/mo ($1,267.62 principal / $1,829.29 interest / $540.66 escrow)
-- Confirm the servicer allows VA entitlement substitution and seller liability release.
-- Ask whether the assumption package has already been started.
-- Ask the servicer's expected timeline for assumption approval.
-- Confirm whether the seller or listing agent has the current loan statement.
-- Confirm whether there are any second liens, solar loans, assessments, or unusual title issues.
-- Confirm all assumption fees and VA funding fee treatment.
-- Confirm actual bed/bath count (2.5 vs 3 full) for comp comparisons.
+- [x] Confirm the exact monthly payment breakdown 
+    * Confirmed: $3,637.57/mo ($1,267.62 principal / $1,829.29 interest / $540.66 escrow)
+- [ ] Confirm the servicer allows VA entitlement substitution and seller liability release.
+- [ ] Ask whether the assumption package has already been started.
+- [ ] Ask the servicer's expected timeline for assumption approval.
+- [ ] Confirm whether the seller or listing agent has the current loan statement.
+- [ ] Confirm whether there are any second liens, solar loans, assessments, or unusual title issues.
+- [ ] Confirm all assumption fees and VA funding fee treatment.
 
 ## Inspection Focus
 
@@ -205,30 +205,6 @@ The surprising comparison is that the $679,000 assumable VA house may have a sim
 
 New construction could still be attractive for lower near-term maintenance, builder warranty, modern layout, energy efficiency, and fewer inspection surprises. Financially, though, the assumable VA loan appears stronger unless the new-construction home is significantly better located, cheaper all-in, or better aligned with lifestyle needs.
 
-## Comparison: $500k Home or New Construction with ODVA Loan
-
-This is for a different house or new-construction option around $500,000, not for financing the current $679,000 assumable-loan house.
-
-- ODVA 30-year QVMB rate noted: 5.250% interest / 5.266% APR
-- ODVA 20-year QVMB rate noted: 5.000% interest / 5.138% APR
-- Estimated principal and interest on a $500,000 loan:
-  - ODVA 30-year at 5.250%: about $2,761/month
-  - ODVA 20-year at 5.000%: about $3,300/month
-  - Regular 30-year at 6.750%: about $3,243/month
-- Taxes, insurance, HOA, builder/community fees, and maintenance would be additional.
-
-ODVA 30-year financing makes the $500,000 new-construction or different-house option much more competitive. It would likely have a lower principal and interest payment than the $679,000 assumable VA house, mainly because the purchase price is lower even though the ODVA rate is higher.
-
-The ODVA 20-year loan builds equity faster, but the required monthly payment is high. The 30-year ODVA loan looks like the more flexible version because extra principal can be paid voluntarily, while the lower required payment leaves more monthly breathing room.
-
-Compared with the current assumable-loan house:
-
-- $679,000 assumable VA house at 3.490%: **$3,637.57/month total** ($3,096.91 P&I + $540.66 escrow) on the assumed $628,000 balance
-- $500,000 ODVA 30-year option at 5.250%: about $2,761/month P&I (+ taxes/insurance on top)
-- $500,000 ODVA 20-year option at 5.000%: about $3,300/month P&I (+ taxes/insurance on top)
-
-Revised take: the assumable loan is still the better debt, but a $500,000 home with ODVA 30-year financing may be the better total-budget option if the goal is lower monthly obligation and less financial stretch.
-
 ## Comparison: Continue Renting and Invest
 
 - Current rent: about $2,000/month
@@ -251,10 +227,8 @@ These rough estimates are surprisingly close. Renting and investing may be finan
 ## Current Ranking
 
 1. Assumable VA house: strongest ownership option because the low-rate debt is unusually valuable.
-2. $500k home or new construction with ODVA 30-year financing: best balanced ownership option if lower monthly risk matters more than buying this specific house.
-3. Continue renting and invest aggressively: flexible and financially rational if the investing discipline is real.
-4. ODVA 20-year financing: strong equity-building option, but only if the higher required payment is very comfortable.
-5. $500k new construction at regular current market rates: less compelling financially, but could make sense for lifestyle, lower maintenance, warranty, or location reasons.
+2. Continue renting and invest aggressively: flexible and financially rational if the investing discipline is real.
+3. $500k new construction at regular current market rates: less compelling financially, but could make sense for lifestyle, lower maintenance, warranty, or location reasons.
 
 Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether **$3,637.57/month** (confirmed) plus utilities is acceptable, and whether the inspection confirms this house is in good condition.
 
@@ -262,7 +236,7 @@ Main decision factors: confidence in staying 7-10+ years, comfort with home main
 
 Source: [VA Mortgage Calculator (calculator.net)](https://www.calculator.net/va-mortgage-calculator.html?chouseprice=675%2C000&cdownpayment=0&cdownpaymentunit=p&cloanterm=30&cinterestrate=3.49&vaeligibility=v&valoanbefore=n&disabled=n&fundingfeeoption=f&cmoreoption=1&caddoptional=1&cpropertytaxes=4%2C765&cpropertytaxesunit=d&chomeins=1%2C720&choa=0&cothercost=0&cstartmonth=3&cstartyear=2022&cpropertytaxesincrease=0&chomeinsincrease=0&choainsincrease=0&cothercostincrease=0&cextramonthly=0&cextramonthlystartmonth=6&cextramonthlystartyear=2026&cextrayearly=0&cextrayearlystartmonth=6&cextrayearlystartyear=2026&cextraonetime=0&cextraonetimestartmonth=6&cextraonetimestartyear=2026&printit=0&x=Calculate#varesult) — $675k purchase, 0% down, 3.49% rate, 30-year term, Mar 2022 start, VA funding fee financed, $4,765/yr taxes, $1,720/yr insurance.
 
-Models how the loan was originated in March 2022. Monthly total ($3,632.79) is within ~$5/mo of the confirmed servicer payment ($3,637.57); remaining gap is ~$4.50/mo higher P&I on the actual loan.
+Models how the loan was originated in March 2022.
 
 ### Monthly & Lifetime Costs
 
@@ -285,9 +259,7 @@ Models how the loan was originated in March 2022. Monthly total ($3,632.79) is w
 | Total interest | $423,741.28 |
 | Mortgage payoff date | Mar. 2052 |
 
-## Amortization Schedule
-
-Source: same [VA Mortgage Calculator](https://www.calculator.net/va-mortgage-calculator.html?chouseprice=675%2C000&cdownpayment=0&cdownpaymentunit=p&cloanterm=30&cinterestrate=3.49&vaeligibility=v&valoanbefore=n&disabled=n&fundingfeeoption=f&cmoreoption=1&caddoptional=1&cpropertytaxes=4%2C765&cpropertytaxesunit=d&chomeins=1%2C720&choa=0&cothercost=0&cstartmonth=3&cstartyear=2022&cpropertytaxesincrease=0&chomeinsincrease=0&choainsincrease=0&cothercostincrease=0&cextramonthly=0&cextramonthlystartmonth=6&cextramonthlystartyear=2026&cextrayearly=0&cextrayearlystartmonth=6&cextrayearlystartyear=2026&cextraonetime=0&cextraonetimestartmonth=6&cextraonetimestartyear=2026&printit=0&x=Calculate#varesult) (annual amortization table below).
+### Amortization Schedule
 
 Original 30-year schedule from loan origination (March 2022). Current balance ~$628k aligns with **year 5** (ending balance $618,366 at 2/27; actual balance may vary slightly with payment timing). Confirmed servicer payment ($3,096.91 P&I) is ~$4.50/mo above the calculator's implied payment — likely a small origination-balance difference (~$690.5k actual vs ~$689.5k in schedule).
 
