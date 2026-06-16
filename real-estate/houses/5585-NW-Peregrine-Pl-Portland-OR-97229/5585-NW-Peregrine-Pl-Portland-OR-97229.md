@@ -112,7 +112,7 @@ This assumption looks potentially strong because the loan balance is high relati
 
 Worth pursuing seriously if the house, neighborhood, and inspection results are good. The combination of a high-balance assumable VA loan, 3.490% interest rate, and only about a $51,000 equity gap is rare enough to justify moving quickly — but only if ~$3,638/month (confirmed) plus utilities/maintenance and a 5–7+ year hold are comfortable.
 
-Offer should be contingent on successful VA loan assumption, entitlement substitution/release, financing approval, satisfactory inspection, and acceptable title review.
+Offer should be contingent on successful VA loan assumption, entitlement substitution/release, financing approval, satisfactory inspection, and acceptable title review. See [[offer-strategy|Offer Strategy]] for price ladder, contingencies, and negotiation playbook.
 
 ## Sale & Price History
 
