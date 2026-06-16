@@ -39,19 +39,24 @@ Small merit increase effective early 2026 (~$33/paycheck).
 
 | Metric | Amount | Notes |
 |---|---|---|
-| Typical net per paycheck | ~**$3,280–3,295** | Base salary checks |
-| Typical monthly net | ~**$6,560–6,590** | 2 paychecks/mo |
+| Net to checking per paycheck | ~**$3,280–3,295** | Base salary checks — what hits Chase |
+| ESPP per paycheck | ~**$716** | Post-tax; does not hit checking |
+| Cash + ESPP per paycheck | ~**$3,996–4,010** | Total deployable if ESPP paused |
+| Monthly net to checking | ~**$6,560–6,590** | 2 paychecks/mo |
+| Monthly ESPP | ~**$1,550** | ~$716 × 26 ÷ 12 |
+| **Total deployable (monthly)** | ~**$8,120** | Checking + ESPP |
 | 401(k) deferral | ~$860/check (~11.5%) | Pre-tax — reduces net but builds assets |
 
 2025 also included a **~$14k performance bonus** (Aug 2025 PSP + merit lump sum; gross $21,692 that period, net ~$9,435). Treat bonus as supplemental, not recurring housing budget.
 
-Some Q4 2025 checks had higher net ($3,760–4,130) from tax adjustments — not a raise. Use the ~$3,280 baseline for conservative budgeting.
+Some Q4 2025 checks had higher net ($3,760–4,130) from tax adjustments — not a raise. Use the ~$3,280 net-to-checking baseline for conservative budgeting.
 
 ### What this means for buying
 
 - **Stable W-2 income** supports assumption/qualification on base salary (~$193–194k/yr gross).
-- **Housing budget vs income:** ~$3k/mo all-in target ≈ **46% of typical net take-home** (~$6,570) — comfortable; baseline living leaves ~$2,290/mo surplus, and $3k PITI only adds ~$1,010 vs. rent ([[../finance/spending|spending]]). Equity gap and reserves matter more than monthly P&I alone.
-- **Upfront cash:** ~$79k liquid (Chase + NFCU checking, Jun 2026). Peregrine (~$51k gap) is coverable from cash alone; Chemeketa (~$189k) needs taxable brokerage too ([[../finance/net-worth|net worth]]).
+- **Housing budget vs income:** ~$3k/mo all-in target fits comfortably on checking alone (~$6,570). Total deployable income (~$8,120) includes ~$1,550/mo ESPP.
+- **Peregrine monthly (planned):** $3,638 confirmed P&I + escrow — above $3k target. **Plan: pause ESPP** if Peregrine closes → ~$8,120 deployable, ~$1,690/mo headroom after baseline + travel for maintenance and reserve rebuild (~$19k post-close). See [[../finance/spending|spending]].
+- **Upfront cash:** ~$79k liquid (Chase + NFCU checking, Jun 2026). Peregrine (~$51k gap + ~$5–10k closing) is coverable from cash alone (~$19k left post-close).
 - Bonus and Q4 tax-adjustment checks add flexibility for closing costs/reserves but shouldn't be counted in recurring monthly budget.
 
 ## Budget
@@ -87,12 +92,11 @@ Ranked roughly by importance (adjust as tours and diligence progress):
 
 ## Active Research
 
-- [[compare]] — side-by-side of current assumable VA candidates
-- House files under `houses/` for per-property diligence, comps, and short-hold math
+- [[houses/5585-NW-Peregrine-Pl-Portland-OR-97229/5585-NW-Peregrine-Pl-Portland-OR-97229|Peregrine]] — primary candidate; assumable VA at 3.49%, ~$51k equity gap
+- [[compare]] — side-by-side of assumable VA candidates (Beaverton/Chemeketa deprioritized)
 
 ## Open Questions
 
-- **Expected hold period:** TBD — longer hold favors locking in low-rate debt; 2–3 year move risk affects which equity gap is acceptable
-- **Comfortable equity gap:** TBD — depends on liquid savings and how much to keep in reserve
-- **Location preference:** Currently renting in Beaverton; Portland metro (97229, 97003 areas) in active search
-- **Property type tradeoff:** Townhouse/condo + HOA vs detached — monthly budget vs lifestyle
+- **Expected hold period:** TBD — longer hold favors locking in low-rate debt; 2–3 year move risk makes Peregrine thin (see house file short-hold math)
+- **ESPP during ownership:** Pause for 1–2 years post-close to rebuild reserves, or keep and accept tight checking cushion at Peregrine's $3,638/mo?
+- **Location preference:** Currently renting in Beaverton; Rock Creek / Bethany (97229) in active diligence via Peregrine

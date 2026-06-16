@@ -22,29 +22,34 @@ Source payslips: `Payslip_to_Print_-_Report_Design_06_12_2026 (1).pdf` (Jan 2025
 
 ### Base salary (recurring)
 
-| Period | Biweekly gross | Annualized gross | Typical net/check |
-|---|---|---|---|
-| 2025 | ~$7,443.52 | ~$193,531 | ~$3,280 |
-| 2026 (after merit bump) | ~$7,476.72 | ~$194,395 | ~$3,294 |
+| Period | Biweekly gross | Annualized gross | Net to checking/check | ESPP/check | Cash + ESPP/check |
+|---|---|---|---|---|---|
+| 2025 | ~$7,443.52 | ~$193,531 | ~$3,280 | ~$716 | ~$3,996 |
+| 2026 (after merit bump) | ~$7,476.72 | ~$194,395 | ~$3,294 | ~$716 | ~$4,010 |
+
+**Net to checking** = deposit to Chase after all deductions. **ESPP** = post-tax Employee Stock Purchase Plan contribution (does not hit checking). **Cash + ESPP** = total deployable per paycheck if ESPP were paused.
 
 Monthly equivalents (lender / budget):
 
 - **Gross (base):** ~$16,100/mo (annual ÷ 12)
-- **Net (base):** ~$6,570/mo (typical take-home, 2 checks)
+- **Net to checking (base):** ~$6,570/mo (2 checks — what bank statements show)
+- **ESPP (base):** ~$1,550/mo (~$716 × 26 ÷ 12; post-tax, off paycheck)
+- **Total deployable (base):** ~$8,120/mo (checking + ESPP)
 
 ## Deductions (typical paycheck, mid-2026)
 
-| Deduction | Per check | ~% of gross |
-|---|---|---|
-| RSP 401(k) (pre-tax) | $860 | ~11.5% |
-| Medical (pre-tax) | $395 | ~5.3% |
-| Dental (pre-tax) | $23 | ~0.3% |
-| Federal withholding | $1,056 | ~14.1% |
-| Medicare | $102 | ~1.4% |
-| Oregon state tax | $536 | ~7.2% |
-| OR statewide transit (ORSTT) | $6 | ~0.1% |
+| Deduction | Per check | ~% of gross | Notes |
+|---|---|---|---|
+| RSP 401(k) (pre-tax) | $860 | ~11.5% | Builds retirement assets |
+| Medical (pre-tax) | $395 | ~5.3% | |
+| Dental (pre-tax) | $23 | ~0.3% | |
+| Federal withholding | $1,056 | ~14.1% | |
+| Medicare | $102 | ~1.4% | |
+| Oregon state tax | $536 | ~7.2% | |
+| OR statewide transit (ORSTT) | $6 | ~0.1% | |
+| **ESPP (post-tax)** | **$716** | **~9.6%** | Nike stock purchase; does not hit checking |
 
-401(k) deferral is intentional — lowers take-home but counts toward assets/reserves. Current balance: **~$207k** (Jun 14, 2026; see [[net-worth|net worth]]).
+401(k) and ESPP are intentional savings — they lower checking deposits but build assets. Current balances (Jun 14, 2026): 401(k) **~$207k**, ESPP **~$3.6k** (see [[net-worth|net worth]]). ESPP is voluntary and can be paused to free ~$716/check (~$1,550/mo) for other uses (e.g. housing reserves after a home purchase).
 
 ## Notable paychecks
 

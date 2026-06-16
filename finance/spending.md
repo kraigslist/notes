@@ -8,14 +8,19 @@ Cross-reference: [[income]] (take-home), [[../real-estate/buyer|Buyer profile]] 
 
 | | Monthly |
 |---|---|
-| **Net take-home** (base salary) | **~$6,570** |
+| **Net to checking** (base salary) | **~$6,570** |
+| **ESPP** (post-tax, off paycheck) | **~$1,550** |
+| **Total deployable** (checking + ESPP) | **~$8,120** |
 | **Baseline spending** (excl. rent) | **~$2,290** |
 | **Rent** | **$1,990** |
 | **Total baseline living cost** | **~$4,280** |
-| **Typical monthly surplus** | **~$2,290** |
+| **Checking surplus** (after living costs) | **~$2,290** |
+| **Total savings rate** (ESPP + checking surplus) | **~$3,840** |
 | **Housing target (PITI + HOA + ins)** | **~$3,000** |
 
-You earn well and spend modestly. Baseline living is ~$4,280/mo against ~$6,570 net — **~$2,290/mo left over** in a normal month before travel. Fidelity Moneyline transfers ($10k lump sums every 4–6 months) are **not** part of the monthly budget; they're periodic moves from accumulated checking surplus.
+You earn well and spend modestly. Baseline living is ~$4,280/mo from checking; **~$2,290/mo** accumulates in checking and **~$1,550/mo** goes to ESPP — **~$3,840/mo total savings** before travel. Fidelity Moneyline transfers ($10k lump sums every 4–6 months) are **not** part of the monthly budget; they're periodic moves from accumulated checking surplus.
+
+See [[income|income]] for paycheck breakdown (net to checking vs. ESPP).
 
 ---
 
@@ -25,9 +30,11 @@ Typical month (excluding travel spikes and periodic lump-sum transfers):
 
 | Category | Amount | Notes |
 |---|---|---|
-| Nike payroll (net) | +$6,570 | 2 checks × ~$3,294 |
+| Nike payroll (net to checking) | +$6,570 | 2 checks × ~$3,294 |
+| ESPP (post-tax, off paycheck) | +$1,550 | ~$716/check — not in checking |
 | StockX deposits | +$460 | Side income; offsets Nike reselling |
-| **Inflow** | **~$7,030** | |
+| **Inflow to checking** | **~$7,030** | |
+| **Total deployable** | **~$8,120** | Checking + ESPP |
 | Rent (Zelle) | −$1,990 | Consistent since Jan |
 | Fixed bills | −$640 | See fixed costs table |
 | Day-to-day card spend | −$1,650 | Groceries, food, gas, barber, shopping |
@@ -146,10 +153,11 @@ Amortized at 1 big trip/year → budget **~$500/mo** accrual. May/Jun are outlie
 | Destination | Cadence | Notes |
 |---|---|---|
 | 401(k) (pre-tax, payroll) | ~$1,860/mo | Automatic via Nike; ~$22k/yr |
+| ESPP (post-tax, payroll) | ~$1,550/mo | ~$716/check; Nike stock; does not hit checking |
 | Fidelity Moneyline (post-tax) | ~$10k every 4–6 mo | Lump sum from checking surplus; $20k YTD |
 | StockX side income | ~$460/mo | Offsets Nike reselling hobby |
 
-401(k) is the steady retirement savings. Fidelity is opportunistic — not a monthly budget line.
+401(k) and ESPP are automatic payroll savings. Fidelity is opportunistic — not a monthly budget line. ESPP is voluntary and can be paused to redirect ~$1,550/mo (e.g. post-closing reserve rebuild).
 
 ---
 
@@ -157,14 +165,17 @@ Amortized at 1 big trip/year → budget **~$500/mo** accrual. May/Jun are outlie
 
 Excluding travel spikes and periodic Fidelity transfers:
 
-| Bucket | Monthly |
-|---|---|
-| Rent | $1,990 |
-| Fixed bills (utilities, ins, phone, subs) | $640 |
-| Day-to-day (groceries, food, gas, barber, shopping) | $1,650 |
-| **Total baseline living cost** | **~$4,280** |
+| Bucket | Monthly | Source |
+|---|---|---|
+| Rent | $1,990 | Checking |
+| Fixed bills (utilities, ins, phone, subs) | $640 | Checking |
+| Day-to-day (groceries, food, gas, barber, shopping) | $1,650 | Checking |
+| **Total baseline living cost** | **~$4,280** | Checking |
+| ESPP | $1,550 | Payroll (post-tax) |
+| Checking surplus | $2,290 | Checking |
+| **Total deployed** | **~$8,120** | |
 
-Against ~$6,570 net → **~$2,290/mo surplus** in a normal month.
+Against ~$6,570 net to checking → **~$2,290/mo checking surplus**. Including ESPP → **~$3,840/mo total savings** in a normal month.
 
 ---
 
@@ -174,34 +185,63 @@ Against ~$6,570 net → **~$2,290/mo surplus** in a normal month.
 
 **~$3,000/mo all-in** — P&I, property taxes, HOA, homeowners insurance.
 
-Current rent is **$1,990/mo** (statements; buyer profile rounds to $2,000). Buying at $3k adds **~$1,010/mo** vs. rent — well within your **~$2,290/mo typical surplus**.
+Current rent is **$1,990/mo** (statements; buyer profile rounds to $2,000). Buying at $3k adds **~$1,010/mo** vs. rent — well within checking surplus alone, and within total deployable income with room to spare.
 
-### Budget at $3k/mo PITI
+### Budget at $3k/mo PITI (checking-only view)
 
 | Line | Monthly |
 |---|---|
-| Net take-home | $6,570 |
+| Net to checking | $6,570 |
 | PITI + HOA + ins | −$3,000 |
 | Fixed bills (non-housing) | −$640 |
 | Day-to-day spending | −$1,650 |
 | Travel accrual | −$500 |
-| **Remaining surplus** | **~$780** |
+| **Checking surplus** | **~$780** |
 
-Comfortable. No need to cut anything. 401(k) continues automatically (~$1,860/mo pre-tax). Fidelity lump-sum transfers can continue on the same 4–6 month cadence if checking stays healthy.
+Comfortable on checking alone. ESPP (~$1,550) and 401(k) (~$1,860 pre-tax) continue automatically.
 
-### Budget at $2,500/mo PITI (conservative)
+### Budget at Peregrine (~$3,638/mo confirmed PITI + escrow)
 
-Same as above but PITI −$2,500 → **~$1,280/mo surplus**. Only ~$510/mo more than current rent.
+Peregrine is above the $3k target. Two views:
 
-### Headroom above $3k target
+**Keep ESPP (~$716/check):**
 
-| PITI | Surplus after baseline + $500 travel |
+| Line | Monthly |
+|---|---|
+| Net to checking | $6,570 |
+| Housing (P&I + escrow) | −$3,638 |
+| Fixed bills (non-housing) | −$640 |
+| Day-to-day spending | −$1,650 |
+| Travel accrual | −$500 |
+| **Checking surplus** | **~$142** |
+| ESPP (separate, off paycheck) | $1,550 |
+| **Total savings** | **~$1,692** |
+
+Tight on checking before utilities/maintenance on a 1987 house. Total savings (~$1,692) still healthy, but little checking cushion for surprises.
+
+**Pause ESPP (redirect to checking):**
+
+| Line | Monthly |
+|---|---|
+| Total deployable | $8,120 |
+| Housing (P&I + escrow) | −$3,638 |
+| Fixed bills (non-housing) | −$640 |
+| Day-to-day spending | −$1,650 |
+| Travel accrual | −$500 |
+| **Remaining** | **~$1,690** |
+
+Comfortable — room for maintenance, reserve rebuild (~$19k post-close), and eventual ESPP restart. Pausing ESPP for 1–2 years after closing is a reasonable lever.
+
+### Headroom above $3k target (checking-only, ESPP kept)
+
+| PITI | Checking surplus after baseline + $500 travel |
 |---|---|
 | $3,000 | ~$780/mo |
 | $3,500 | ~$280/mo |
+| $3,638 (Peregrine) | ~$142/mo |
 | $3,780 | ~$0/mo (break-even with travel accrual) |
 
-**Verdict:** $3k/mo housing fits easily in your current lifestyle. You could stretch toward ~$3,500/mo PITI and still break even. Your lender will qualify you for much more (see below), but $3k is a sensible target — not because you can't afford more, but because upfront cash (equity gap) is the real constraint.
+**Verdict:** $3k/mo housing fits easily on checking alone. Peregrine at $3,638 is tight if ESPP stays on, but workable if ESPP is paused (~$1,690/mo headroom) or lifestyle is unchanged and you accept thin checking cushion. Upfront cash (equity gap ~$51k) is coverable from checking; post-close reserves (~$19k) are the bigger concern.
 
 ---
 
@@ -246,13 +286,14 @@ Credit cards: ~$6,500 on Chase (current). Consider paying down before mortgage a
 
 ## Key takeaways
 
-1. **Baseline living cost is ~$4,280/mo** — modest for ~$6,570 net income.
-2. **~$2,290/mo surplus** in a normal month after rent and day-to-day spending.
-3. **$3k/mo housing fits easily** — only ~$1,010/mo more than rent, leaving ~$780/mo after travel accrual.
-4. **Fidelity transfers are periodic lump sums**, not monthly spending — don't amortize them into the budget.
-5. **Lender will approve far more** than $3k/mo; monthly payment is not the bottleneck.
-6. **Peregrine-scale equity gap (~$51k) is coverable from $79k cash**; larger gaps need brokerage. See [[net-worth]].
-7. **May 2026 travel (~$5,500) is a one-off** — don't let it inflate your budget baseline.
+1. **Baseline living cost is ~$4,280/mo** from checking — modest for ~$8,120/mo total deployable income.
+2. **~$2,290/mo checking surplus** + **~$1,550/mo ESPP** = **~$3,840/mo total savings** in a normal month.
+3. **$3k/mo housing fits easily on checking alone** — only ~$1,010/mo more than rent, leaving ~$780/mo after travel accrual.
+4. **Peregrine (~$3,638/mo) is tight on checking with ESPP on** (~$142/mo cushion; ~$1,692/mo total savings) but **comfortable if ESPP is paused** (~$1,690/mo headroom).
+5. **Fidelity transfers are periodic lump sums**, not monthly spending — don't amortize them into the budget.
+6. **Lender will approve far more** than $3k/mo; upfront cash and post-close reserves matter more than monthly P&I.
+7. **Peregrine-scale equity gap (~$51k) is coverable from $79k cash**; ~$19k left in checking post-close. See [[net-worth]].
+8. **May 2026 travel (~$5,500) is a one-off** — don't let it inflate your budget baseline.
 
 ## Open items
 
