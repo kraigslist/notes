@@ -219,18 +219,20 @@ Peregrine is above the $3k target. Two views:
 
 Tight on checking before utilities/maintenance on a 1987 house. Total savings (~$1,692) still healthy, but little checking cushion for surprises.
 
-**Pause ESPP (redirect to checking):**
+### Peregrine plan (ESPP paused)
+
+If Peregrine closes, plan is to **pause ESPP** and use ~$8,120/mo deployable income:
 
 | Line | Monthly |
 |---|---|
-| Total deployable | $8,120 |
+| Total deployable (ESPP paused) | $8,120 |
 | Housing (P&I + escrow) | −$3,638 |
 | Fixed bills (non-housing) | −$640 |
 | Day-to-day spending | −$1,650 |
 | Travel accrual | −$500 |
 | **Remaining** | **~$1,690** |
 
-Comfortable — room for maintenance, reserve rebuild (~$19k post-close), and eventual ESPP restart. Pausing ESPP for 1–2 years after closing is a reasonable lever.
+Room for maintenance, reserve rebuild (~$19k post-close), and eventual ESPP restart. At ~$1,690/mo, checking recovers to ~$30k in roughly 6–7 months.
 
 ### Headroom above $3k target (checking-only, ESPP kept)
 
@@ -241,7 +243,7 @@ Comfortable — room for maintenance, reserve rebuild (~$19k post-close), and ev
 | $3,638 (Peregrine) | ~$142/mo |
 | $3,780 | ~$0/mo (break-even with travel accrual) |
 
-**Verdict:** $3k/mo housing fits easily on checking alone. Peregrine at $3,638 is tight if ESPP stays on, but workable if ESPP is paused (~$1,690/mo headroom) or lifestyle is unchanged and you accept thin checking cushion. Upfront cash (equity gap ~$51k) is coverable from checking; post-close reserves (~$19k) are the bigger concern.
+**Verdict:** $3k/mo housing fits easily on checking alone. **Peregrine plan:** pause ESPP → ~$1,690/mo headroom at $3,638 housing — comfortable for maintenance and rebuilding post-close reserves (~$19k). Upfront cash (equity gap ~$51k) is coverable from checking.
 
 ---
 
@@ -289,7 +291,7 @@ Credit cards: ~$6,500 on Chase (current). Consider paying down before mortgage a
 1. **Baseline living cost is ~$4,280/mo** from checking — modest for ~$8,120/mo total deployable income.
 2. **~$2,290/mo checking surplus** + **~$1,550/mo ESPP** = **~$3,840/mo total savings** in a normal month.
 3. **$3k/mo housing fits easily on checking alone** — only ~$1,010/mo more than rent, leaving ~$780/mo after travel accrual.
-4. **Peregrine (~$3,638/mo) is tight on checking with ESPP on** (~$142/mo cushion; ~$1,692/mo total savings) but **comfortable if ESPP is paused** (~$1,690/mo headroom).
+4. **Peregrine plan: pause ESPP** → ~$1,690/mo headroom at $3,638 housing (vs. ~$142/mo checking cushion if ESPP kept).
 5. **Fidelity transfers are periodic lump sums**, not monthly spending — don't amortize them into the budget.
 6. **Lender will approve far more** than $3k/mo; upfront cash and post-close reserves matter more than monthly P&I.
 7. **Peregrine-scale equity gap (~$51k) is coverable from $79k cash**; ~$19k left in checking post-close. See [[net-worth]].

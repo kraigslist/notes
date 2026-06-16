@@ -95,8 +95,12 @@ Ranked roughly by importance (adjust as tours and diligence progress):
 - [[houses/5585-NW-Peregrine-Pl-Portland-OR-97229/5585-NW-Peregrine-Pl-Portland-OR-97229|Peregrine]] — primary candidate; assumable VA at 3.49%, ~$51k equity gap
 - [[compare]] — side-by-side of assumable VA candidates (Beaverton/Chemeketa deprioritized)
 
+## Plans (if Peregrine closes)
+
+- **Pause ESPP** — redirect ~$716/check (~$1,550/mo) to checking for reserve rebuild and maintenance buffer. Restart once checking is back to a comfortable cushion (target: revisit after ~12–24 months or when reserves exceed ~$30–40k).
+- **401(k) unchanged** — keep ~$860/check pre-tax deferral.
+
 ## Open Questions
 
 - **Expected hold period:** TBD — longer hold favors locking in low-rate debt; 2–3 year move risk makes Peregrine thin (see house file short-hold math)
-- **ESPP during ownership:** Pause for 1–2 years post-close to rebuild reserves, or keep and accept tight checking cushion at Peregrine's $3,638/mo?
 - **Location preference:** Currently renting in Beaverton; Rock Creek / Bethany (97229) in active diligence via Peregrine

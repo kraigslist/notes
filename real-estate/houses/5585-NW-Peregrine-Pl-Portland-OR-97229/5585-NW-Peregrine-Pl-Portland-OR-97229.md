@@ -274,7 +274,7 @@ These rough estimates are surprisingly close. Renting and investing may be finan
 2. Continue renting and invest aggressively: flexible and financially rational if the investing discipline is real.
 3. $500k new construction at regular current market rates: less compelling financially, but could make sense for lifestyle, lower maintenance, warranty, or location reasons.
 
-Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether **$3,637.57/month** (confirmed) plus utilities is acceptable, and whether the inspection confirms this house is in good condition.
+Main decision factors: confidence in staying 7-10+ years, comfort with home maintenance, desire for stability/ownership, whether **$3,637.57/month** (confirmed) plus utilities is acceptable with **ESPP paused** (~$1,690/mo headroom per [[../../finance/spending|spending]]), and whether the inspection confirms this house is in good condition.
 
 ## VA Loan Calculator Model (Origination)
 
