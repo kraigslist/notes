@@ -4,6 +4,8 @@ Personal context for house hunting — situation, budget, and what I'm optimizin
 
 ## About Me
 
+- **Household:** Single; no partner, dependents, or pets
+- **First-time buyer:** Yes
 - **Employer:** Nike — Software Engineer
 - **Veteran status:** Veteran; VA entitlement available for substitution (required for assuming most VA loans)
 
@@ -12,6 +14,26 @@ Personal context for house hunting — situation, budget, and what I'm optimizin
 - **Housing:** Renting
 - **Address:** 716 NE Adwick Dr, Beaverton, OR 97006
 - **Rent:** $2,000/month
+- **Lease:** Fixed term **Feb 1, 2026 – Feb 1, 2027**. No routine early termination; breaking the lease forfeits the **$1,990** security deposit.
+- **Contingent sale:** No — not selling another home to buy
+
+## Work & Commute
+
+- **Office:** Nike World Headquarters (WHQ)
+- **Schedule:** In office Monday–Thursday
+- **Commute target:** ~**15 minutes or less** by car from WHQ
+
+## Timeline & Motivation
+
+- **Urgency:** No rush — happy renting today; will buy when a good deal closes, even if that means breaking the lease and forfeiting the deposit.
+- VA assumptions often take **2–4 months** — timeline is driven by the deal, not a fixed move-in date.
+
+## Long-term Outlook
+
+- **Career:** Plan to stay at Nike long term (20+ years if possible). Layoffs are a real risk — several teammates have been let go.
+- **If job changes:** Stay in Portland if a comparable role appears; otherwise sell and relocate.
+- **Household future:** Would like a partner and kids someday. School district quality is a **nice-to-have**, behind monthly cost, assumable rate, commute, and property fit.
+- **Hold period:** Long hold is the ideal if Portland + Nike work out; short-hold or relocation risk still matters for thin-margin deals (see Peregrine short-hold math in house file).
 
 ## What I'm Looking For
 
@@ -88,7 +110,8 @@ Ranked roughly by importance (adjust as tours and diligence progress):
 2. **Low assumed interest rate** — 2.7–2.75% is excellent; 3.5% still beats current market
 3. **Reasonable equity gap / cash to close** — upfront cash is the main bottleneck on best-rate options
 4. **Property fit** — detached, no HOA, location, condition
-5. **Assumption friction** — servicer timeline (often 2–4 months), seller cooperation, clean title
+5. **School district** — nice-to-have for future kids; not a primary filter today
+6. **Assumption friction** — servicer timeline (often 2–4 months), seller cooperation, clean title
 
 ## Active Research
 
@@ -102,5 +125,5 @@ Ranked roughly by importance (adjust as tours and diligence progress):
 
 ## Open Questions
 
-- **Expected hold period:** TBD — longer hold favors locking in low-rate debt; 2–3 year move risk makes Peregrine thin (see house file short-hold math)
-- **Location preference:** Currently renting in Beaverton; Rock Creek / Bethany (97229) in active diligence via Peregrine
+- **Property must-haves:** Minimum beds/baths, garage, yard, home office — TBD as tours progress
+- **Location scope:** WHQ commute (~15 min) is the main constraint; Rock Creek / Bethany (97229) in active diligence via Peregrine
