@@ -12,6 +12,7 @@
 - Buyer situation: Veteran, VA entitlement available for substitution
 - Agent: Spencer McGee, Move Real Estate (503-836-2010)
 - [House Viewing Video - [20260612] (YouTube)](https://youtu.be/-CJ6tUphxa4)
+- [[photo-review-and-inspection|Photo review & inspection checklist]] · [[images/2026/|Listing photos]]
 
 ## Existing VA Loan
 
