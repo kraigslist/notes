@@ -282,7 +282,9 @@ Source: [VA Mortgage Calculator (calculator.net)](https://www.calculator.net/va-
 
 Models how the loan was originated in March 2022.
 
-### Monthly & Lifetime Costs
+### Monthly & Lifetime Costs (Origination — full 30 yr)
+
+*If the loan were starting fresh in March 2022. Not your scenario.*
 
 | | Monthly | Total (30 yr) |
 |---|---:|---:|
@@ -290,6 +292,22 @@ Models how the loan was originated in March 2022.
 | Property tax | $397.08 | $142,950.00 |
 | Home insurance | $143.33 | $51,600.00 |
 | **Total out-of-pocket** | **$3,632.79** | **$1,307,803.78** |
+
+### Monthly & Lifetime Costs (Assumption — Jun 2026 forward)
+
+*What you actually pay if you assume the loan today. Monthly payment stays the same; totals cover **~309 remaining payments** (Jun 2026 → Mar 2052, ~25.75 years). Uses confirmed servicer payment split; one-time equity gap (~$51k) and closing costs are separate.*
+
+| | Monthly | Remaining total (~309 mo) |
+|---|---:|---:|
+| Mortgage payment (P&I) | $3,096.91 | ~$956,945 |
+| Property tax | $397.08 | ~$122,698 |
+| Home insurance | $143.33 | ~$44,289 |
+| **Total out-of-pocket** | **$3,637.57** | **~$1,124,009** |
+
+- Remaining interest (est.): ~$565,000 (using confirmed $1,829.29/mo × 309; actual declines as principal is paid down — amortization schedule implies ~$324k)
+- Remaining principal to pay off: ~$628,000 (current balance)
+- **Already paid by seller since 2022:** ~$158k P&I (~$93k interest, ~$65k principal) — you inherit the low-rate debt without having made those payments
+- **vs. origination table above:** you skip ~$184k in lifetime housing costs the seller already covered
 
 ### Loan Terms at Origination
 
