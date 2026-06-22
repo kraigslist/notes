@@ -12,7 +12,7 @@
 - Buyer situation: Veteran, VA entitlement available for substitution
 - Agent: Spencer McGee, Move Real Estate (503-836-2010)
 - [House Viewing Video - [20260612] (YouTube)](https://youtu.be/-CJ6tUphxa4)
-- [[photo-review-and-inspection|Photo review & inspection checklist]] · [[images/2026/|Listing photos]]
+- [[photo-review-and-inspection|Photo review & inspection checklist]] · [[neighborhood-report|Neighborhood report]] · [[images/2026/|Listing photos]]
 
 ## Existing VA Loan
 
@@ -159,6 +159,8 @@ The seller tested a ~$44k premium at $719k and the market pushed back on price a
 
 ## Neighborhood and Recent Sales Sanity Check
 
+*See [[neighborhood-report|Neighborhood report]] for demographics, 5-year price trends, schools, parks, and market context.*
+
 - Area: Rock Creek / Bethany-adjacent part of Portland 97229
 - General neighborhood read: suburban, family-friendly, quiet, generally considered safe, with parks/trails nearby
 - Transportation/lifestyle: car-oriented, with access to Bethany, Tanasbourne, Highway 26, Intel/Nike-area employment hubs, and westside amenities
@@ -304,6 +306,36 @@ Models how the loan was originated in March 2022.
 | Property tax | $397.08 | ~$122,698 |
 | Home insurance | $143.33 | ~$44,289 |
 | **Total out-of-pocket** | **$3,637.57** | **~$1,124,009** |
+
+### Comparison: $600k Purchase with $50k Down at Today's Rates
+
+*Hypothetical market-rate purchase today — $600k price, **$50k down**, **$550k financed**, 30-year term. Same monthly cost structure as above (P&I + escrow). Taxes and insurance scaled from Peregrine's confirmed escrow (~$4,765/yr tax, ~$1,720/yr insurance at $679k). Rates: **6.50% / 6.75% / 7.00%**. PMI not included (would apply at ~8% down on conventional).*
+
+| | Monthly | 30 yr total | ~309 mo total* |
+|---|---:|---:|---:|
+| **Assumption (Peregrine)** | **$3,637.57** | — | **~$1,124,009** |
+| $600k / $50k down @ 6.50% | $3,953.91 | ~$1,423,409 | ~$1,221,760 |
+| $600k / $50k down @ 6.75% | $4,044.83 | ~$1,456,139 | ~$1,249,852 |
+| $600k / $50k down @ 7.00% | $4,136.70 | ~$1,489,214 | ~$1,278,242 |
+
+*\*309 months matches the assumption's remaining term (Jun 2026 → Mar 2052) for an apples-to-apples lifetime comparison. A new 30-year loan would still have ~51 payments left after that date.*
+
+| Component @ 6.75% | Monthly |
+|---|---:|
+| Mortgage payment (P&I on $550k) | $3,567.29 |
+| Property tax (scaled to $600k) | $350.88 |
+| Home insurance (scaled to $600k) | $126.66 |
+| **Total out-of-pocket** | **$4,044.83** |
+
+**Monthly delta vs assumption:** roughly **+$315–$500/mo** depending on rate (**+$407/mo at 6.75%**).
+
+**Lifetime delta over ~309 months:** roughly **+$98k–$154k** more out-of-pocket vs assuming Peregrine — about **+$126k at 6.75%**.
+
+**Upfront cash is now roughly comparable:** $50k down plus closing/prepaids (~**$55k–$60k total**) vs assumption equity gap ~$51k plus closing (~**$55k–$66k total**). Similar cash at closing — the advantage shifts almost entirely to the monthly payment and lifetime cost.
+
+**Caveats:** not the same house — Peregrine is ~$679k / 2,332 sq ft; a $600k comp is closer in price but likely smaller or in a different micro-market. A new purchase starts a full 30-year clock (vs ~26 years remaining on the assumption). PMI on a conventional loan at 8.3% down would add ~$100–$200/mo on top of these numbers.
+
+**Bottom line:** with similar upfront cash, the assumption still wins by **~$400/mo** and **~$126k over the same ~26-year window** at 6.75%. You're getting a larger home at Peregrine for less per month than a cheaper house financed at market rates.
 
 - Remaining interest (est.): ~$565,000 (using confirmed $1,829.29/mo × 309; actual declines as principal is paid down — amortization schedule implies ~$324k)
 - Remaining principal to pay off: ~$628,000 (current balance)
