@@ -36,18 +36,18 @@ Sorted by estimated all-in monthly cost (low → high). Figures are planning est
 
 Top picks per criterion (not a full ranking of all eight).
 
-| Criterion | 1st | 2nd | 3rd |
-|---|---|---|---|
-| Lowest monthly cost | Beaverton or 7950 Butternut (~$2,100) | Hardwood (~$2,200) | 8070 Butternut (~$2,400) |
-| Lowest equity gap | Schoeler (~$35k) | 8070 Butternut / Peregrine (~$50–51k) | Beaverton (~$100k) |
-| Best interest rate | 7950 Butternut (2.625%) | Beaverton (2.700%) | Hardwood / Chemeketa (2.74–2.75%) |
-| Best cash efficiency (gap ÷ price) | Schoeler (~6.6%) | Peregrine / 8070 Butternut (~12%) | 77th Ave (~16%) |
-| Lowest purchase price / exposure | Beaverton (~$350k) | 7950 / 8070 Butternut ($440k) | Hardwood ($490k) |
-| Detached, no/low HOA | Hardwood (~$25) | Chemeketa / Peregrine (none) | Schoeler ($82) |
-| Easiest assumption to close | Peregrine (balance ≈ price) | Schoeler (small gap) | 8070 Butternut |
-| VA loan confirmed | Peregrine, Chemeketa, Beaverton | — | All Hillsboro: unconfirmed |
-| Negotiation leverage (DOM) | 7950 Butternut (~122d) | Schoeler (~67d) | Peregrine (~125d†) |
-| Worst monthly / rate tradeoff | 77th Ave ($3,600, 4.57%) | Peregrine ($3,638, confirmed) | Schoeler ($2,950, 3.76%) |
+| Criterion                          | 1st                                   | 2nd                                   | 3rd                               |
+| ---------------------------------- | ------------------------------------- | ------------------------------------- | --------------------------------- |
+| Lowest monthly cost                | Beaverton or 7950 Butternut (~$2,100) | Hardwood (~$2,200)                    | 8070 Butternut (~$2,400)          |
+| Lowest equity gap                  | Schoeler (~$35k)                      | 8070 Butternut / Peregrine (~$50–51k) | Beaverton (~$100k)                |
+| Best interest rate                 | 7950 Butternut (2.625%)               | Beaverton (2.700%)                    | Hardwood / Chemeketa (2.74–2.75%) |
+| Best cash efficiency (gap ÷ price) | Schoeler (~6.6%)                      | Peregrine / 8070 Butternut (~12%)     | 77th Ave (~16%)                   |
+| Lowest purchase price / exposure   | Beaverton (~$350k)                    | 7950 / 8070 Butternut ($440k)         | Hardwood ($490k)                  |
+| Detached, no/low HOA               | Hardwood (~$25)                       | Chemeketa / Peregrine (none)          | Schoeler ($82)                    |
+| Easiest assumption to close        | Peregrine (balance ≈ price)           | Schoeler (small gap)                  | 8070 Butternut                    |
+| VA loan confirmed                  | Peregrine, Chemeketa, Beaverton       | —                                     | All Hillsboro: unconfirmed        |
+| Negotiation leverage (DOM)         | 7950 Butternut (~122d)                | Schoeler (~67d)                       | Peregrine (~125d†)                |
+| Worst monthly / rate tradeoff      | 77th Ave ($3,600, 4.57%)              | Peregrine ($3,638, confirmed)         | Schoeler ($2,950, 3.76%)          |
 
 ### Hillsboro Pair: 7950 vs 8070 Butternut Creek
 

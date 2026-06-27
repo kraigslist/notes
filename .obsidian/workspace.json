@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "real-estate/houses/326-NE-77th-Ave-Hillsboro-OR-97124.md",
+                "file": "real-estate/compare.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "326-NE-77th-Ave-Hillsboro-OR-97124"
+              "title": "compare"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5
   },
   "right": {
     "id": "1fa90811db3c5463",
@@ -185,28 +185,29 @@
   },
   "active": "f951e633edf82e69",
   "lastOpenFiles": [
-    "real-estate/houses/17770-NW-Chemeketa-Ct-Portland-OR-97229.md",
-    "real-estate/houses/7950-SE-Butternut-Creek-Pkwy-Hillsboro-OR-97123.md",
     "real-estate/houses/8070-SE-Butternut-Creek-Pkwy-Hillsboro-OR-97123.md",
+    "real-estate/compare.md",
+    "real-estate/houses/17770-NW-Chemeketa-Ct-Portland-OR-97229.md",
+    "real-estate/houses/4412-SE-Hardwood-Ln-Hillsboro-OR-97123.md",
+    "real-estate/houses/326-NE-77th-Ave-Hillsboro-OR-97124.md",
+    "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/11-entry-sunken-living-from-entry.jpg",
+    "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/05-exterior-rear-two-story-deck.jpg",
+    "real-estate/houses/7950-SE-Butternut-Creek-Pkwy-Hillsboro-OR-97123.md",
     "real-estate/houses/17770-NW Chemeketa-Ct-Portland-OR-97229.md",
     "finance/spending.md",
-    "real-estate/houses/4412-SE-Hardwood-Ln-Hillsboro-OR-97123.md",
     "real-estate/houses/5098-NE-Schoeler-Cir-Hillsboro-OR-97124.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/neighborhood-report.md",
-    "real-estate/houses/326-NE-77th-Ave-Hillsboro-OR-97124.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/photo-review-and-inspection.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/offer-strategy.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/5585-NW-Peregrine-Pl-Portland-OR-97229.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/42-upstairs-flex-room-deck-door.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/39-primary-bedroom-headboard-window.jpg",
-    "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/05-exterior-rear-two-story-deck.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/47-powder-room-half-bath.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/46-hall-bath-walk-in-shower.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/45-hall-bath-renovated-subway-tile.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/44-hall-bath-shower-tile-close.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/43-primary-ensuite-double-vanity.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/41-primary-bedroom-sitting-nook.jpg",
-    "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/40-primary-bedroom-closet-ensuite.jpg",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/7aa5b7df453c2acd47c28f98f72dc7c6-uncropped_scaled_within_1536_1152.webp.crdownload",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/3f9a297ec52a78cf9a6aa4ecfb3c8f99-uncropped_scaled_within_1536_1152.webp.crdownload",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/7ac232a192e4d2453232692f9a85d7f0-uncropped_scaled_within_1536_1152.webp.crdownload",
@@ -221,7 +222,6 @@
     "finance/income.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229.md",
     "real-estate/buyer.md",
-    "real-estate/compare.md",
     "real-estate/houses/5585-NW-Peregine-Pl-Portland-OR-97229.md",
     "finance/dk-may-road-trip.md",
     "real-estate/houses/2981-SW-187th-Ave-Beaverton-OR-97003.md"
