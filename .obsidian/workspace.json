@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/spending.md",
+                "file": "real-estate/houses/326-NE-77th-Ave-Hillsboro-OR-97124.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spending"
+              "title": "326-NE-77th-Ave-Hillsboro-OR-97124"
             }
           }
         ]
@@ -185,9 +185,12 @@
   },
   "active": "f951e633edf82e69",
   "lastOpenFiles": [
+    "real-estate/houses/17770-NW-Chemeketa-Ct-Portland-OR-97229.md",
     "real-estate/houses/7950-SE-Butternut-Creek-Pkwy-Hillsboro-OR-97123.md",
-    "real-estate/houses/4412-SE-Hardwood-Ln-Hillsboro-OR-97123.md",
     "real-estate/houses/8070-SE-Butternut-Creek-Pkwy-Hillsboro-OR-97123.md",
+    "real-estate/houses/17770-NW Chemeketa-Ct-Portland-OR-97229.md",
+    "finance/spending.md",
+    "real-estate/houses/4412-SE-Hardwood-Ln-Hillsboro-OR-97123.md",
     "real-estate/houses/5098-NE-Schoeler-Cir-Hillsboro-OR-97124.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/neighborhood-report.md",
     "real-estate/houses/326-NE-77th-Ave-Hillsboro-OR-97124.md",
@@ -214,7 +217,6 @@
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/43811eea05d44aae154f05e6d123cc03-uncropped_scaled_within_1536_1152.webp.crdownload",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/e1d455f6dc32bb66dabf80db9574a682-uncropped_scaled_within_1536_1152.webp.crdownload",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229/images/2026/764a53540c13bfcb7f55363fc3075818-uncropped_scaled_within_1536_1152.webp.crdownload",
-    "finance/spending.md",
     "finance/net-worth.md",
     "finance/income.md",
     "real-estate/houses/5585-NW-Peregrine-Pl-Portland-OR-97229.md",
@@ -222,7 +224,6 @@
     "real-estate/compare.md",
     "real-estate/houses/5585-NW-Peregine-Pl-Portland-OR-97229.md",
     "finance/dk-may-road-trip.md",
-    "real-estate/houses/17770-NW Chemeketa-Ct-Portland-OR-97229.md",
     "real-estate/houses/2981-SW-187th-Ave-Beaverton-OR-97003.md"
   ]
 }
